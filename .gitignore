@@ -1,0 +1,9 @@
+.venv/
+*.pkl
+*.pth
+# all model files in any directory
+.*/*.pkl
+# all model files in any directory
+.*/*.pth
+# all log files in any directory
+.*/*.logs
