@@ -21256,5 +21256,4505 @@
         "duration_sec": 31.403072118759155,
         "epsilon0": 0.7787520933134615,
         "epsilon1": 0.7787520933134615
+    },
+    {
+        "episode": 1,
+        "timestamp": 1743152136.6796498,
+        "winner": 0,
+        "turns": 169,
+        "duration_sec": 0.4213559627532959,
+        "epsilon0": 0.9995,
+        "epsilon1": 0.9995
+    },
+    {
+        "episode": 2,
+        "timestamp": 1743152137.0213265,
+        "winner": 0,
+        "turns": 167,
+        "duration_sec": 0.3381521701812744,
+        "epsilon0": 0.9990002500000001,
+        "epsilon1": 0.9990002500000001
+    },
+    {
+        "episode": 3,
+        "timestamp": 1743152137.3409207,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3165876865386963,
+        "epsilon0": 0.9985007498750001,
+        "epsilon1": 0.9985007498750001
+    },
+    {
+        "episode": 4,
+        "timestamp": 1743152137.6841865,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.33965015411376953,
+        "epsilon0": 0.9980014995000627,
+        "epsilon1": 0.9980014995000627
+    },
+    {
+        "episode": 5,
+        "timestamp": 1743152138.1673331,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.4793694019317627,
+        "epsilon0": 0.9975024987503127,
+        "epsilon1": 0.9975024987503127
+    },
+    {
+        "episode": 6,
+        "timestamp": 1743152138.4567761,
+        "winner": 1,
+        "turns": 178,
+        "duration_sec": 0.2863807678222656,
+        "epsilon0": 0.9970037475009376,
+        "epsilon1": 0.9970037475009376
+    },
+    {
+        "episode": 7,
+        "timestamp": 1743152138.7659156,
+        "winner": 0,
+        "turns": 173,
+        "duration_sec": 0.3057074546813965,
+        "epsilon0": 0.9965052456271871,
+        "epsilon1": 0.9965052456271871
+    },
+    {
+        "episode": 8,
+        "timestamp": 1743152139.0932865,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.3233766555786133,
+        "epsilon0": 0.9960069930043736,
+        "epsilon1": 0.9960069930043736
+    },
+    {
+        "episode": 9,
+        "timestamp": 1743152139.4208336,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3243076801300049,
+        "epsilon0": 0.9955089895078715,
+        "epsilon1": 0.9955089895078715
+    },
+    {
+        "episode": 10,
+        "timestamp": 1743152139.808672,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.38446760177612305,
+        "epsilon0": 0.9950112350131176,
+        "epsilon1": 0.9950112350131176
+    },
+    {
+        "episode": 11,
+        "timestamp": 1743152140.1171126,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.3052327632904053,
+        "epsilon0": 0.9945137293956111,
+        "epsilon1": 0.9945137293956111
+    },
+    {
+        "episode": 12,
+        "timestamp": 1743152140.4219563,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.301297664642334,
+        "epsilon0": 0.9940164725309134,
+        "epsilon1": 0.9940164725309134
+    },
+    {
+        "episode": 13,
+        "timestamp": 1743152140.707104,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.2816174030303955,
+        "epsilon0": 0.993519464294648,
+        "epsilon1": 0.993519464294648
+    },
+    {
+        "episode": 14,
+        "timestamp": 1743152140.9950655,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.2848012447357178,
+        "epsilon0": 0.9930227045625007,
+        "epsilon1": 0.9930227045625007
+    },
+    {
+        "episode": 15,
+        "timestamp": 1743152141.265027,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.26607227325439453,
+        "epsilon0": 0.9925261932102195,
+        "epsilon1": 0.9925261932102195
+    },
+    {
+        "episode": 16,
+        "timestamp": 1743152141.5189316,
+        "winner": 1,
+        "turns": 162,
+        "duration_sec": 0.2507772445678711,
+        "epsilon0": 0.9920299301136144,
+        "epsilon1": 0.9920299301136144
+    },
+    {
+        "episode": 17,
+        "timestamp": 1743152141.821341,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.2989957332611084,
+        "epsilon0": 0.9915339151485576,
+        "epsilon1": 0.9915339151485576
+    },
+    {
+        "episode": 18,
+        "timestamp": 1743152142.106686,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.2823357582092285,
+        "epsilon0": 0.9910381481909833,
+        "epsilon1": 0.9910381481909833
+    },
+    {
+        "episode": 19,
+        "timestamp": 1743152142.4032369,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.293609619140625,
+        "epsilon0": 0.990542629116888,
+        "epsilon1": 0.990542629116888
+    },
+    {
+        "episode": 20,
+        "timestamp": 1743152142.675912,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.26891613006591797,
+        "epsilon0": 0.9900473578023296,
+        "epsilon1": 0.9900473578023296
+    },
+    {
+        "episode": 21,
+        "timestamp": 1743152142.9643059,
+        "winner": 0,
+        "turns": 167,
+        "duration_sec": 0.28479528427124023,
+        "epsilon0": 0.9895523341234285,
+        "epsilon1": 0.9895523341234285
+    },
+    {
+        "episode": 22,
+        "timestamp": 1743152143.2579443,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.2906837463378906,
+        "epsilon0": 0.9890575579563669,
+        "epsilon1": 0.9890575579563669
+    },
+    {
+        "episode": 23,
+        "timestamp": 1743152143.5109475,
+        "winner": 1,
+        "turns": 160,
+        "duration_sec": 0.2501394748687744,
+        "epsilon0": 0.9885630291773887,
+        "epsilon1": 0.9885630291773887
+    },
+    {
+        "episode": 24,
+        "timestamp": 1743152143.80728,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.29329705238342285,
+        "epsilon0": 0.9880687476628001,
+        "epsilon1": 0.9880687476628001
+    },
+    {
+        "episode": 25,
+        "timestamp": 1743152144.104811,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.29453349113464355,
+        "epsilon0": 0.9875747132889687,
+        "epsilon1": 0.9875747132889687
+    },
+    {
+        "episode": 26,
+        "timestamp": 1743152144.3827684,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.2740802764892578,
+        "epsilon0": 0.9870809259323243,
+        "epsilon1": 0.9870809259323243
+    },
+    {
+        "episode": 27,
+        "timestamp": 1743152144.6735983,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.28687119483947754,
+        "epsilon0": 0.9865873854693582,
+        "epsilon1": 0.9865873854693582
+    },
+    {
+        "episode": 28,
+        "timestamp": 1743152144.9580207,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.28099536895751953,
+        "epsilon0": 0.9860940917766235,
+        "epsilon1": 0.9860940917766235
+    },
+    {
+        "episode": 29,
+        "timestamp": 1743152145.2599916,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.2987039089202881,
+        "epsilon0": 0.9856010447307353,
+        "epsilon1": 0.9856010447307353
+    },
+    {
+        "episode": 30,
+        "timestamp": 1743152145.5494318,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.28615570068359375,
+        "epsilon0": 0.98510824420837,
+        "epsilon1": 0.98510824420837
+    },
+    {
+        "episode": 31,
+        "timestamp": 1743152145.8482518,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.2947573661804199,
+        "epsilon0": 0.9846156900862658,
+        "epsilon1": 0.9846156900862658
+    },
+    {
+        "episode": 32,
+        "timestamp": 1743152146.118367,
+        "winner": 1,
+        "turns": 172,
+        "duration_sec": 0.26624488830566406,
+        "epsilon0": 0.9841233822412228,
+        "epsilon1": 0.9841233822412228
+    },
+    {
+        "episode": 33,
+        "timestamp": 1743152146.5072715,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.3852572441101074,
+        "epsilon0": 0.9836313205501022,
+        "epsilon1": 0.9836313205501022
+    },
+    {
+        "episode": 34,
+        "timestamp": 1743152146.8110435,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.29902219772338867,
+        "epsilon0": 0.9831395048898272,
+        "epsilon1": 0.9831395048898272
+    },
+    {
+        "episode": 35,
+        "timestamp": 1743152147.101181,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.28663015365600586,
+        "epsilon0": 0.9826479351373822,
+        "epsilon1": 0.9826479351373822
+    },
+    {
+        "episode": 36,
+        "timestamp": 1743152147.418692,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.3133244514465332,
+        "epsilon0": 0.9821566111698136,
+        "epsilon1": 0.9821566111698136
+    },
+    {
+        "episode": 37,
+        "timestamp": 1743152147.7526233,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.33063340187072754,
+        "epsilon0": 0.9816655328642288,
+        "epsilon1": 0.9816655328642288
+    },
+    {
+        "episode": 38,
+        "timestamp": 1743152148.247984,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.4913291931152344,
+        "epsilon0": 0.9811747000977967,
+        "epsilon1": 0.9811747000977967
+    },
+    {
+        "episode": 39,
+        "timestamp": 1743152148.6198697,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.3687272071838379,
+        "epsilon0": 0.9806841127477479,
+        "epsilon1": 0.9806841127477479
+    },
+    {
+        "episode": 40,
+        "timestamp": 1743152148.8878741,
+        "winner": 1,
+        "turns": 170,
+        "duration_sec": 0.264477014541626,
+        "epsilon0": 0.9801937706913741,
+        "epsilon1": 0.9801937706913741
+    },
+    {
+        "episode": 41,
+        "timestamp": 1743152149.2179186,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3267788887023926,
+        "epsilon0": 0.9797036738060285,
+        "epsilon1": 0.9797036738060285
+    },
+    {
+        "episode": 42,
+        "timestamp": 1743152149.6103597,
+        "winner": 0,
+        "turns": 173,
+        "duration_sec": 0.387861967086792,
+        "epsilon0": 0.9792138219691255,
+        "epsilon1": 0.9792138219691255
+    },
+    {
+        "episode": 43,
+        "timestamp": 1743152149.8955545,
+        "winner": 1,
+        "turns": 170,
+        "duration_sec": 0.28188157081604004,
+        "epsilon0": 0.978724215058141,
+        "epsilon1": 0.978724215058141
+    },
+    {
+        "episode": 44,
+        "timestamp": 1743152150.350916,
+        "winner": 1,
+        "turns": 164,
+        "duration_sec": 0.45125532150268555,
+        "epsilon0": 0.978234852950612,
+        "epsilon1": 0.978234852950612
+    },
+    {
+        "episode": 45,
+        "timestamp": 1743152150.652469,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.2984766960144043,
+        "epsilon0": 0.9777457355241367,
+        "epsilon1": 0.9777457355241367
+    },
+    {
+        "episode": 46,
+        "timestamp": 1743152150.946524,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.29088711738586426,
+        "epsilon0": 0.9772568626563747,
+        "epsilon1": 0.9772568626563747
+    },
+    {
+        "episode": 47,
+        "timestamp": 1743152151.2473516,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.29782557487487793,
+        "epsilon0": 0.9767682342250465,
+        "epsilon1": 0.9767682342250465
+    },
+    {
+        "episode": 48,
+        "timestamp": 1743152151.5538447,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.3022944927215576,
+        "epsilon0": 0.976279850107934,
+        "epsilon1": 0.976279850107934
+    },
+    {
+        "episode": 49,
+        "timestamp": 1743152151.8903222,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.3333010673522949,
+        "epsilon0": 0.9757917101828801,
+        "epsilon1": 0.9757917101828801
+    },
+    {
+        "episode": 50,
+        "timestamp": 1743152152.2230604,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.32958126068115234,
+        "epsilon0": 0.9753038143277888,
+        "epsilon1": 0.9753038143277888
+    },
+    {
+        "episode": 51,
+        "timestamp": 1743152152.5662737,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.33928370475769043,
+        "epsilon0": 0.974816162420625,
+        "epsilon1": 0.974816162420625
+    },
+    {
+        "episode": 52,
+        "timestamp": 1743152152.8742003,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.30385375022888184,
+        "epsilon0": 0.9743287543394147,
+        "epsilon1": 0.9743287543394147
+    },
+    {
+        "episode": 53,
+        "timestamp": 1743152153.1918051,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3137052059173584,
+        "epsilon0": 0.973841589962245,
+        "epsilon1": 0.973841589962245
+    },
+    {
+        "episode": 54,
+        "timestamp": 1743152153.5002673,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.30544567108154297,
+        "epsilon0": 0.973354669167264,
+        "epsilon1": 0.973354669167264
+    },
+    {
+        "episode": 55,
+        "timestamp": 1743152156.3976202,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 2.8940048217773438,
+        "epsilon0": 0.9728679918326804,
+        "epsilon1": 0.9728679918326804
+    },
+    {
+        "episode": 56,
+        "timestamp": 1743152156.781996,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3796846866607666,
+        "epsilon0": 0.972381557836764,
+        "epsilon1": 0.972381557836764
+    },
+    {
+        "episode": 57,
+        "timestamp": 1743152157.0727062,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.2876863479614258,
+        "epsilon0": 0.9718953670578457,
+        "epsilon1": 0.9718953670578457
+    },
+    {
+        "episode": 58,
+        "timestamp": 1743152157.369774,
+        "winner": 0,
+        "turns": 173,
+        "duration_sec": 0.2940549850463867,
+        "epsilon0": 0.9714094193743169,
+        "epsilon1": 0.9714094193743169
+    },
+    {
+        "episode": 59,
+        "timestamp": 1743152157.693515,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3200068473815918,
+        "epsilon0": 0.9709237146646298,
+        "epsilon1": 0.9709237146646298
+    },
+    {
+        "episode": 60,
+        "timestamp": 1743152157.9750733,
+        "winner": 1,
+        "turns": 176,
+        "duration_sec": 0.2784762382507324,
+        "epsilon0": 0.9704382528072976,
+        "epsilon1": 0.9704382528072976
+    },
+    {
+        "episode": 61,
+        "timestamp": 1743152158.2957773,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.31678152084350586,
+        "epsilon0": 0.9699530336808939,
+        "epsilon1": 0.9699530336808939
+    },
+    {
+        "episode": 62,
+        "timestamp": 1743152158.621503,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.3219153881072998,
+        "epsilon0": 0.9694680571640535,
+        "epsilon1": 0.9694680571640535
+    },
+    {
+        "episode": 63,
+        "timestamp": 1743152158.9645452,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3396880626678467,
+        "epsilon0": 0.9689833231354715,
+        "epsilon1": 0.9689833231354715
+    },
+    {
+        "episode": 64,
+        "timestamp": 1743152159.2956321,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.32773876190185547,
+        "epsilon0": 0.9684988314739038,
+        "epsilon1": 0.9684988314739038
+    },
+    {
+        "episode": 65,
+        "timestamp": 1743152159.6314929,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3322749137878418,
+        "epsilon0": 0.9680145820581669,
+        "epsilon1": 0.9680145820581669
+    },
+    {
+        "episode": 66,
+        "timestamp": 1743152160.1233068,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.48869919776916504,
+        "epsilon0": 0.9675305747671379,
+        "epsilon1": 0.9675305747671379
+    },
+    {
+        "episode": 67,
+        "timestamp": 1743152160.4439876,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.3175790309906006,
+        "epsilon0": 0.9670468094797544,
+        "epsilon1": 0.9670468094797544
+    },
+    {
+        "episode": 68,
+        "timestamp": 1743152160.7378368,
+        "winner": 0,
+        "turns": 165,
+        "duration_sec": 0.29067397117614746,
+        "epsilon0": 0.9665632860750146,
+        "epsilon1": 0.9665632860750146
+    },
+    {
+        "episode": 69,
+        "timestamp": 1743152161.0347712,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.2939291000366211,
+        "epsilon0": 0.9660800044319772,
+        "epsilon1": 0.9660800044319772
+    },
+    {
+        "episode": 70,
+        "timestamp": 1743152161.3105261,
+        "winner": 1,
+        "turns": 166,
+        "duration_sec": 0.2727673053741455,
+        "epsilon0": 0.9655969644297613,
+        "epsilon1": 0.9655969644297613
+    },
+    {
+        "episode": 71,
+        "timestamp": 1743152161.6122415,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.2985219955444336,
+        "epsilon0": 0.9651141659475465,
+        "epsilon1": 0.9651141659475465
+    },
+    {
+        "episode": 72,
+        "timestamp": 1743152161.931092,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.3154032230377197,
+        "epsilon0": 0.9646316088645728,
+        "epsilon1": 0.9646316088645728
+    },
+    {
+        "episode": 73,
+        "timestamp": 1743152162.2444403,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3103525638580322,
+        "epsilon0": 0.9641492930601405,
+        "epsilon1": 0.9641492930601405
+    },
+    {
+        "episode": 74,
+        "timestamp": 1743152162.563052,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.31447935104370117,
+        "epsilon0": 0.9636672184136105,
+        "epsilon1": 0.9636672184136105
+    },
+    {
+        "episode": 75,
+        "timestamp": 1743152162.922192,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.3560047149658203,
+        "epsilon0": 0.9631853848044037,
+        "epsilon1": 0.9631853848044037
+    },
+    {
+        "episode": 76,
+        "timestamp": 1743152163.2505372,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.32503628730773926,
+        "epsilon0": 0.9627037921120016,
+        "epsilon1": 0.9627037921120016
+    },
+    {
+        "episode": 77,
+        "timestamp": 1743152163.6425498,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.38897228240966797,
+        "epsilon0": 0.9622224402159457,
+        "epsilon1": 0.9622224402159457
+    },
+    {
+        "episode": 78,
+        "timestamp": 1743152163.9944649,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.3487734794616699,
+        "epsilon0": 0.9617413289958378,
+        "epsilon1": 0.9617413289958378
+    },
+    {
+        "episode": 79,
+        "timestamp": 1743152164.3082795,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.31037378311157227,
+        "epsilon0": 0.9612604583313399,
+        "epsilon1": 0.9612604583313399
+    },
+    {
+        "episode": 80,
+        "timestamp": 1743152164.6853082,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.37212538719177246,
+        "epsilon0": 0.9607798281021742,
+        "epsilon1": 0.9607798281021742
+    },
+    {
+        "episode": 81,
+        "timestamp": 1743152164.9998746,
+        "winner": 1,
+        "turns": 176,
+        "duration_sec": 0.31146979331970215,
+        "epsilon0": 0.9602994381881231,
+        "epsilon1": 0.9602994381881231
+    },
+    {
+        "episode": 82,
+        "timestamp": 1743152165.3091066,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.30637645721435547,
+        "epsilon0": 0.9598192884690291,
+        "epsilon1": 0.9598192884690291
+    },
+    {
+        "episode": 83,
+        "timestamp": 1743152165.6516194,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.3393537998199463,
+        "epsilon0": 0.9593393788247946,
+        "epsilon1": 0.9593393788247946
+    },
+    {
+        "episode": 84,
+        "timestamp": 1743152165.9510224,
+        "winner": 0,
+        "turns": 173,
+        "duration_sec": 0.295947790145874,
+        "epsilon0": 0.9588597091353822,
+        "epsilon1": 0.9588597091353822
+    },
+    {
+        "episode": 85,
+        "timestamp": 1743152166.4790382,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.5245363712310791,
+        "epsilon0": 0.9583802792808146,
+        "epsilon1": 0.9583802792808146
+    },
+    {
+        "episode": 86,
+        "timestamp": 1743152166.7135806,
+        "winner": 0,
+        "turns": 151,
+        "duration_sec": 0.23121953010559082,
+        "epsilon0": 0.9579010891411742,
+        "epsilon1": 0.9579010891411742
+    },
+    {
+        "episode": 87,
+        "timestamp": 1743152167.0756238,
+        "winner": 1,
+        "turns": 176,
+        "duration_sec": 0.3588237762451172,
+        "epsilon0": 0.9574221385966036,
+        "epsilon1": 0.9574221385966036
+    },
+    {
+        "episode": 88,
+        "timestamp": 1743152167.3560126,
+        "winner": 1,
+        "turns": 160,
+        "duration_sec": 0.2770969867706299,
+        "epsilon0": 0.9569434275273054,
+        "epsilon1": 0.9569434275273054
+    },
+    {
+        "episode": 89,
+        "timestamp": 1743152167.663429,
+        "winner": 1,
+        "turns": 168,
+        "duration_sec": 0.30387449264526367,
+        "epsilon0": 0.9564649558135419,
+        "epsilon1": 0.9564649558135419
+    },
+    {
+        "episode": 90,
+        "timestamp": 1743152167.9669929,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.2996063232421875,
+        "epsilon0": 0.9559867233356352,
+        "epsilon1": 0.9559867233356352
+    },
+    {
+        "episode": 91,
+        "timestamp": 1743152168.2592106,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.28861188888549805,
+        "epsilon0": 0.9555087299739674,
+        "epsilon1": 0.9555087299739674
+    },
+    {
+        "episode": 92,
+        "timestamp": 1743152168.5713918,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3088827133178711,
+        "epsilon0": 0.9550309756089804,
+        "epsilon1": 0.9550309756089804
+    },
+    {
+        "episode": 93,
+        "timestamp": 1743152168.9174778,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.34297680854797363,
+        "epsilon0": 0.954553460121176,
+        "epsilon1": 0.954553460121176
+    },
+    {
+        "episode": 94,
+        "timestamp": 1743152169.2447712,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3226194381713867,
+        "epsilon0": 0.9540761833911156,
+        "epsilon1": 0.9540761833911156
+    },
+    {
+        "episode": 95,
+        "timestamp": 1743152169.6248167,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.37609076499938965,
+        "epsilon0": 0.95359914529942,
+        "epsilon1": 0.95359914529942
+    },
+    {
+        "episode": 96,
+        "timestamp": 1743152169.9662347,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.3371875286102295,
+        "epsilon0": 0.9531223457267703,
+        "epsilon1": 0.9531223457267703
+    },
+    {
+        "episode": 97,
+        "timestamp": 1743152170.3179724,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3484351634979248,
+        "epsilon0": 0.952645784553907,
+        "epsilon1": 0.952645784553907
+    },
+    {
+        "episode": 98,
+        "timestamp": 1743152170.6804025,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3577611446380615,
+        "epsilon0": 0.9521694616616301,
+        "epsilon1": 0.9521694616616301
+    },
+    {
+        "episode": 99,
+        "timestamp": 1743152170.9735036,
+        "winner": 1,
+        "turns": 172,
+        "duration_sec": 0.2898142337799072,
+        "epsilon0": 0.9516933769307994,
+        "epsilon1": 0.9516933769307994
+    },
+    {
+        "episode": 100,
+        "timestamp": 1743152171.243284,
+        "winner": 0,
+        "turns": 163,
+        "duration_sec": 0.26583266258239746,
+        "epsilon0": 0.951217530242334,
+        "epsilon1": 0.951217530242334
+    },
+    {
+        "episode": 101,
+        "timestamp": 1743152171.5695078,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3232381343841553,
+        "epsilon0": 0.9507419214772129,
+        "epsilon1": 0.9507419214772129
+    },
+    {
+        "episode": 102,
+        "timestamp": 1743152171.8801763,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3058927059173584,
+        "epsilon0": 0.9502665505164744,
+        "epsilon1": 0.9502665505164744
+    },
+    {
+        "episode": 103,
+        "timestamp": 1743152172.1797445,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.295757532119751,
+        "epsilon0": 0.9497914172412162,
+        "epsilon1": 0.9497914172412162
+    },
+    {
+        "episode": 104,
+        "timestamp": 1743152172.4850266,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.3022181987762451,
+        "epsilon0": 0.9493165215325956,
+        "epsilon1": 0.9493165215325956
+    },
+    {
+        "episode": 105,
+        "timestamp": 1743152172.8149953,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.32667994499206543,
+        "epsilon0": 0.9488418632718294,
+        "epsilon1": 0.9488418632718294
+    },
+    {
+        "episode": 106,
+        "timestamp": 1743152173.2023988,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.383986234664917,
+        "epsilon0": 0.9483674423401935,
+        "epsilon1": 0.9483674423401935
+    },
+    {
+        "episode": 107,
+        "timestamp": 1743152173.535082,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.329378604888916,
+        "epsilon0": 0.9478932586190235,
+        "epsilon1": 0.9478932586190235
+    },
+    {
+        "episode": 108,
+        "timestamp": 1743152173.9079757,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.36973071098327637,
+        "epsilon0": 0.9474193119897141,
+        "epsilon1": 0.9474193119897141
+    },
+    {
+        "episode": 109,
+        "timestamp": 1743152174.2459507,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.3350028991699219,
+        "epsilon0": 0.9469456023337193,
+        "epsilon1": 0.9469456023337193
+    },
+    {
+        "episode": 110,
+        "timestamp": 1743152174.553433,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.30420994758605957,
+        "epsilon0": 0.9464721295325524,
+        "epsilon1": 0.9464721295325524
+    },
+    {
+        "episode": 111,
+        "timestamp": 1743152174.897766,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.34087395668029785,
+        "epsilon0": 0.9459988934677862,
+        "epsilon1": 0.9459988934677862
+    },
+    {
+        "episode": 112,
+        "timestamp": 1743152175.2691278,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.3681063652038574,
+        "epsilon0": 0.9455258940210524,
+        "epsilon1": 0.9455258940210524
+    },
+    {
+        "episode": 113,
+        "timestamp": 1743152175.5697498,
+        "winner": 1,
+        "turns": 172,
+        "duration_sec": 0.2972424030303955,
+        "epsilon0": 0.9450531310740419,
+        "epsilon1": 0.9450531310740419
+    },
+    {
+        "episode": 114,
+        "timestamp": 1743152175.9257822,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.3526730537414551,
+        "epsilon0": 0.9445806045085049,
+        "epsilon1": 0.9445806045085049
+    },
+    {
+        "episode": 115,
+        "timestamp": 1743152176.2509453,
+        "winner": 1,
+        "turns": 178,
+        "duration_sec": 0.32201051712036133,
+        "epsilon0": 0.9441083142062507,
+        "epsilon1": 0.9441083142062507
+    },
+    {
+        "episode": 116,
+        "timestamp": 1743152176.6084483,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.35419416427612305,
+        "epsilon0": 0.9436362600491477,
+        "epsilon1": 0.9436362600491477
+    },
+    {
+        "episode": 117,
+        "timestamp": 1743152176.9586039,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3461146354675293,
+        "epsilon0": 0.9431644419191232,
+        "epsilon1": 0.9431644419191232
+    },
+    {
+        "episode": 118,
+        "timestamp": 1743152177.3443027,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3825857639312744,
+        "epsilon0": 0.9426928596981636,
+        "epsilon1": 0.9426928596981636
+    },
+    {
+        "episode": 119,
+        "timestamp": 1743152177.6981184,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.34873056411743164,
+        "epsilon0": 0.9422215132683146,
+        "epsilon1": 0.9422215132683146
+    },
+    {
+        "episode": 120,
+        "timestamp": 1743152177.9959795,
+        "winner": 0,
+        "turns": 155,
+        "duration_sec": 0.29361939430236816,
+        "epsilon0": 0.9417504025116805,
+        "epsilon1": 0.9417504025116805
+    },
+    {
+        "episode": 121,
+        "timestamp": 1743152178.34717,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3476719856262207,
+        "epsilon0": 0.9412795273104247,
+        "epsilon1": 0.9412795273104247
+    },
+    {
+        "episode": 122,
+        "timestamp": 1743152178.6757214,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.32480549812316895,
+        "epsilon0": 0.9408088875467696,
+        "epsilon1": 0.9408088875467696
+    },
+    {
+        "episode": 123,
+        "timestamp": 1743152179.0012212,
+        "winner": 1,
+        "turns": 178,
+        "duration_sec": 0.3221702575683594,
+        "epsilon0": 0.9403384831029963,
+        "epsilon1": 0.9403384831029963
+    },
+    {
+        "episode": 124,
+        "timestamp": 1743152179.366622,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.36228203773498535,
+        "epsilon0": 0.9398683138614449,
+        "epsilon1": 0.9398683138614449
+    },
+    {
+        "episode": 125,
+        "timestamp": 1743152179.6637278,
+        "winner": 0,
+        "turns": 165,
+        "duration_sec": 0.29398608207702637,
+        "epsilon0": 0.9393983797045142,
+        "epsilon1": 0.9393983797045142
+    },
+    {
+        "episode": 126,
+        "timestamp": 1743152180.2376137,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.5706822872161865,
+        "epsilon0": 0.938928680514662,
+        "epsilon1": 0.938928680514662
+    },
+    {
+        "episode": 127,
+        "timestamp": 1743152180.5611422,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3197021484375,
+        "epsilon0": 0.9384592161744048,
+        "epsilon1": 0.9384592161744048
+    },
+    {
+        "episode": 128,
+        "timestamp": 1743152180.880586,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.31556057929992676,
+        "epsilon0": 0.9379899865663176,
+        "epsilon1": 0.9379899865663176
+    },
+    {
+        "episode": 129,
+        "timestamp": 1743152181.1874788,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.302217960357666,
+        "epsilon0": 0.9375209915730345,
+        "epsilon1": 0.9375209915730345
+    },
+    {
+        "episode": 130,
+        "timestamp": 1743152181.4917817,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.3010549545288086,
+        "epsilon0": 0.937052231077248,
+        "epsilon1": 0.937052231077248
+    },
+    {
+        "episode": 131,
+        "timestamp": 1743152181.8125618,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.3177199363708496,
+        "epsilon0": 0.9365837049617094,
+        "epsilon1": 0.9365837049617094
+    },
+    {
+        "episode": 132,
+        "timestamp": 1743152182.1274178,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.31186628341674805,
+        "epsilon0": 0.9361154131092286,
+        "epsilon1": 0.9361154131092286
+    },
+    {
+        "episode": 133,
+        "timestamp": 1743152182.4147494,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.2839646339416504,
+        "epsilon0": 0.9356473554026741,
+        "epsilon1": 0.9356473554026741
+    },
+    {
+        "episode": 134,
+        "timestamp": 1743152182.7511916,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.3333005905151367,
+        "epsilon0": 0.9351795317249728,
+        "epsilon1": 0.9351795317249728
+    },
+    {
+        "episode": 135,
+        "timestamp": 1743152183.0567842,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.3027331829071045,
+        "epsilon0": 0.9347119419591103,
+        "epsilon1": 0.9347119419591103
+    },
+    {
+        "episode": 136,
+        "timestamp": 1743152183.3872263,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.32716870307922363,
+        "epsilon0": 0.9342445859881309,
+        "epsilon1": 0.9342445859881309
+    },
+    {
+        "episode": 137,
+        "timestamp": 1743152183.692271,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.30164384841918945,
+        "epsilon0": 0.9337774636951368,
+        "epsilon1": 0.9337774636951368
+    },
+    {
+        "episode": 138,
+        "timestamp": 1743152183.9789612,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.2838599681854248,
+        "epsilon0": 0.9333105749632893,
+        "epsilon1": 0.9333105749632893
+    },
+    {
+        "episode": 139,
+        "timestamp": 1743152184.303895,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3218417167663574,
+        "epsilon0": 0.9328439196758077,
+        "epsilon1": 0.9328439196758077
+    },
+    {
+        "episode": 140,
+        "timestamp": 1743152184.6037405,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.2969174385070801,
+        "epsilon0": 0.9323774977159699,
+        "epsilon1": 0.9323774977159699
+    },
+    {
+        "episode": 141,
+        "timestamp": 1743152184.9346097,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.3272242546081543,
+        "epsilon0": 0.9319113089671119,
+        "epsilon1": 0.9319113089671119
+    },
+    {
+        "episode": 142,
+        "timestamp": 1743152185.2595553,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3213932514190674,
+        "epsilon0": 0.9314453533126285,
+        "epsilon1": 0.9314453533126285
+    },
+    {
+        "episode": 143,
+        "timestamp": 1743152185.591734,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.3284022808074951,
+        "epsilon0": 0.9309796306359722,
+        "epsilon1": 0.9309796306359722
+    },
+    {
+        "episode": 144,
+        "timestamp": 1743152185.8856206,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.290590763092041,
+        "epsilon0": 0.9305141408206543,
+        "epsilon1": 0.9305141408206543
+    },
+    {
+        "episode": 145,
+        "timestamp": 1743152186.214064,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.32489776611328125,
+        "epsilon0": 0.9300488837502441,
+        "epsilon1": 0.9300488837502441
+    },
+    {
+        "episode": 146,
+        "timestamp": 1743152189.0603538,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 2.843027114868164,
+        "epsilon0": 0.9295838593083691,
+        "epsilon1": 0.9295838593083691
+    },
+    {
+        "episode": 147,
+        "timestamp": 1743152189.3875556,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.32388734817504883,
+        "epsilon0": 0.929119067378715,
+        "epsilon1": 0.929119067378715
+    },
+    {
+        "episode": 148,
+        "timestamp": 1743152189.7104394,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.3194551467895508,
+        "epsilon0": 0.9286545078450257,
+        "epsilon1": 0.9286545078450257
+    },
+    {
+        "episode": 149,
+        "timestamp": 1743152190.3906553,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.6764633655548096,
+        "epsilon0": 0.9281901805911033,
+        "epsilon1": 0.9281901805911033
+    },
+    {
+        "episode": 150,
+        "timestamp": 1743152190.7996044,
+        "winner": 0,
+        "turns": 173,
+        "duration_sec": 0.40591931343078613,
+        "epsilon0": 0.9277260855008077,
+        "epsilon1": 0.9277260855008077
+    },
+    {
+        "episode": 151,
+        "timestamp": 1743152191.2222908,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.41897130012512207,
+        "epsilon0": 0.9272622224580573,
+        "epsilon1": 0.9272622224580573
+    },
+    {
+        "episode": 152,
+        "timestamp": 1743152191.5580115,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3329286575317383,
+        "epsilon0": 0.9267985913468284,
+        "epsilon1": 0.9267985913468284
+    },
+    {
+        "episode": 153,
+        "timestamp": 1743152191.866591,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.305652379989624,
+        "epsilon0": 0.926335192051155,
+        "epsilon1": 0.926335192051155
+    },
+    {
+        "episode": 154,
+        "timestamp": 1743152192.1783862,
+        "winner": 0,
+        "turns": 173,
+        "duration_sec": 0.30852484703063965,
+        "epsilon0": 0.9258720244551295,
+        "epsilon1": 0.9258720244551295
+    },
+    {
+        "episode": 155,
+        "timestamp": 1743152192.457676,
+        "winner": 1,
+        "turns": 160,
+        "duration_sec": 0.276364803314209,
+        "epsilon0": 0.925409088442902,
+        "epsilon1": 0.925409088442902
+    },
+    {
+        "episode": 156,
+        "timestamp": 1743152192.799643,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.3386557102203369,
+        "epsilon0": 0.9249463838986807,
+        "epsilon1": 0.9249463838986807
+    },
+    {
+        "episode": 157,
+        "timestamp": 1743152193.1430151,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.3398768901824951,
+        "epsilon0": 0.9244839107067314,
+        "epsilon1": 0.9244839107067314
+    },
+    {
+        "episode": 158,
+        "timestamp": 1743152193.4723248,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.3261551856994629,
+        "epsilon0": 0.9240216687513781,
+        "epsilon1": 0.9240216687513781
+    },
+    {
+        "episode": 159,
+        "timestamp": 1743152193.791514,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.3160743713378906,
+        "epsilon0": 0.9235596579170025,
+        "epsilon1": 0.9235596579170025
+    },
+    {
+        "episode": 160,
+        "timestamp": 1743152194.127823,
+        "winner": 0,
+        "turns": 167,
+        "duration_sec": 0.3331563472747803,
+        "epsilon0": 0.923097878088044,
+        "epsilon1": 0.923097878088044
+    },
+    {
+        "episode": 161,
+        "timestamp": 1743152194.4392726,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.3047454357147217,
+        "epsilon0": 0.9226363291490001,
+        "epsilon1": 0.9226363291490001
+    },
+    {
+        "episode": 162,
+        "timestamp": 1743152194.8996763,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.4572577476501465,
+        "epsilon0": 0.9221750109844257,
+        "epsilon1": 0.9221750109844257
+    },
+    {
+        "episode": 163,
+        "timestamp": 1743152195.1998546,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.2965271472930908,
+        "epsilon0": 0.9217139234789336,
+        "epsilon1": 0.9217139234789336
+    },
+    {
+        "episode": 164,
+        "timestamp": 1743152195.5395906,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.3368408679962158,
+        "epsilon0": 0.9212530665171942,
+        "epsilon1": 0.9212530665171942
+    },
+    {
+        "episode": 165,
+        "timestamp": 1743152195.844677,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.30203843116760254,
+        "epsilon0": 0.9207924399839357,
+        "epsilon1": 0.9207924399839357
+    },
+    {
+        "episode": 166,
+        "timestamp": 1743152196.1550534,
+        "winner": 1,
+        "turns": 178,
+        "duration_sec": 0.3062758445739746,
+        "epsilon0": 0.9203320437639437,
+        "epsilon1": 0.9203320437639437
+    },
+    {
+        "episode": 167,
+        "timestamp": 1743152196.7312872,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.57281494140625,
+        "epsilon0": 0.9198718777420618,
+        "epsilon1": 0.9198718777420618
+    },
+    {
+        "episode": 168,
+        "timestamp": 1743152197.0120254,
+        "winner": 0,
+        "turns": 155,
+        "duration_sec": 0.27625250816345215,
+        "epsilon0": 0.9194119418031909,
+        "epsilon1": 0.9194119418031909
+    },
+    {
+        "episode": 169,
+        "timestamp": 1743152197.3348658,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.3197956085205078,
+        "epsilon0": 0.9189522358322894,
+        "epsilon1": 0.9189522358322894
+    },
+    {
+        "episode": 170,
+        "timestamp": 1743152197.7247493,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.3865518569946289,
+        "epsilon0": 0.9184927597143733,
+        "epsilon1": 0.9184927597143733
+    },
+    {
+        "episode": 171,
+        "timestamp": 1743152198.0746253,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.3459603786468506,
+        "epsilon0": 0.9180335133345161,
+        "epsilon1": 0.9180335133345161
+    },
+    {
+        "episode": 172,
+        "timestamp": 1743152198.4362676,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3582148551940918,
+        "epsilon0": 0.917574496577849,
+        "epsilon1": 0.917574496577849
+    },
+    {
+        "episode": 173,
+        "timestamp": 1743152198.739886,
+        "winner": 0,
+        "turns": 165,
+        "duration_sec": 0.29914212226867676,
+        "epsilon0": 0.9171157093295601,
+        "epsilon1": 0.9171157093295601
+    },
+    {
+        "episode": 174,
+        "timestamp": 1743152199.0739608,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.32968878746032715,
+        "epsilon0": 0.9166571514748953,
+        "epsilon1": 0.9166571514748953
+    },
+    {
+        "episode": 175,
+        "timestamp": 1743152199.3885405,
+        "winner": 1,
+        "turns": 166,
+        "duration_sec": 0.3106856346130371,
+        "epsilon0": 0.916198822899158,
+        "epsilon1": 0.916198822899158
+    },
+    {
+        "episode": 176,
+        "timestamp": 1743152199.7397392,
+        "winner": 1,
+        "turns": 178,
+        "duration_sec": 0.3482961654663086,
+        "epsilon0": 0.9157407234877085,
+        "epsilon1": 0.9157407234877085
+    },
+    {
+        "episode": 177,
+        "timestamp": 1743152200.0251124,
+        "winner": 1,
+        "turns": 172,
+        "duration_sec": 0.28234124183654785,
+        "epsilon0": 0.9152828531259647,
+        "epsilon1": 0.9152828531259647
+    },
+    {
+        "episode": 178,
+        "timestamp": 1743152200.3459454,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.31691741943359375,
+        "epsilon0": 0.9148252116994018,
+        "epsilon1": 0.9148252116994018
+    },
+    {
+        "episode": 179,
+        "timestamp": 1743152200.6371505,
+        "winner": 0,
+        "turns": 171,
+        "duration_sec": 0.2881286144256592,
+        "epsilon0": 0.9143677990935521,
+        "epsilon1": 0.9143677990935521
+    },
+    {
+        "episode": 180,
+        "timestamp": 1743152200.9879444,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.3471815586090088,
+        "epsilon0": 0.9139106151940054,
+        "epsilon1": 0.9139106151940054
+    },
+    {
+        "episode": 181,
+        "timestamp": 1743152201.344791,
+        "winner": 0,
+        "turns": 165,
+        "duration_sec": 0.352431058883667,
+        "epsilon0": 0.9134536598864085,
+        "epsilon1": 0.9134536598864085
+    },
+    {
+        "episode": 182,
+        "timestamp": 1743152201.6911728,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3417844772338867,
+        "epsilon0": 0.9129969330564653,
+        "epsilon1": 0.9129969330564653
+    },
+    {
+        "episode": 183,
+        "timestamp": 1743152202.0111537,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.3167746067047119,
+        "epsilon0": 0.9125404345899372,
+        "epsilon1": 0.9125404345899372
+    },
+    {
+        "episode": 184,
+        "timestamp": 1743152202.3675017,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3533315658569336,
+        "epsilon0": 0.9120841643726423,
+        "epsilon1": 0.9120841643726423
+    },
+    {
+        "episode": 185,
+        "timestamp": 1743152202.7584796,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3879208564758301,
+        "epsilon0": 0.911628122290456,
+        "epsilon1": 0.911628122290456
+    },
+    {
+        "episode": 186,
+        "timestamp": 1743152203.080529,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3187222480773926,
+        "epsilon0": 0.9111723082293108,
+        "epsilon1": 0.9111723082293108
+    },
+    {
+        "episode": 187,
+        "timestamp": 1743152203.4268293,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.34319591522216797,
+        "epsilon0": 0.9107167220751963,
+        "epsilon1": 0.9107167220751963
+    },
+    {
+        "episode": 188,
+        "timestamp": 1743152203.7496843,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.31914567947387695,
+        "epsilon0": 0.9102613637141588,
+        "epsilon1": 0.9102613637141588
+    },
+    {
+        "episode": 189,
+        "timestamp": 1743152204.0814352,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3280062675476074,
+        "epsilon0": 0.9098062330323018,
+        "epsilon1": 0.9098062330323018
+    },
+    {
+        "episode": 190,
+        "timestamp": 1743152204.4426718,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.35799741744995117,
+        "epsilon0": 0.9093513299157857,
+        "epsilon1": 0.9093513299157857
+    },
+    {
+        "episode": 191,
+        "timestamp": 1743152204.7653272,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.31948328018188477,
+        "epsilon0": 0.9088966542508279,
+        "epsilon1": 0.9088966542508279
+    },
+    {
+        "episode": 192,
+        "timestamp": 1743152205.0870352,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.3187289237976074,
+        "epsilon0": 0.9084422059237025,
+        "epsilon1": 0.9084422059237025
+    },
+    {
+        "episode": 193,
+        "timestamp": 1743152205.4698706,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.3797798156738281,
+        "epsilon0": 0.9079879848207407,
+        "epsilon1": 0.9079879848207407
+    },
+    {
+        "episode": 194,
+        "timestamp": 1743152205.8140457,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.34087204933166504,
+        "epsilon0": 0.9075339908283304,
+        "epsilon1": 0.9075339908283304
+    },
+    {
+        "episode": 195,
+        "timestamp": 1743152206.146015,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.32832765579223633,
+        "epsilon0": 0.9070802238329163,
+        "epsilon1": 0.9070802238329163
+    },
+    {
+        "episode": 196,
+        "timestamp": 1743152206.4938176,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.34438133239746094,
+        "epsilon0": 0.9066266837209999,
+        "epsilon1": 0.9066266837209999
+    },
+    {
+        "episode": 197,
+        "timestamp": 1743152206.8267744,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.32984232902526855,
+        "epsilon0": 0.9061733703791394,
+        "epsilon1": 0.9061733703791394
+    },
+    {
+        "episode": 198,
+        "timestamp": 1743152207.174891,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.34439682960510254,
+        "epsilon0": 0.9057202836939499,
+        "epsilon1": 0.9057202836939499
+    },
+    {
+        "episode": 199,
+        "timestamp": 1743152207.476944,
+        "winner": 0,
+        "turns": 161,
+        "duration_sec": 0.2982645034790039,
+        "epsilon0": 0.9052674235521029,
+        "epsilon1": 0.9052674235521029
+    },
+    {
+        "episode": 200,
+        "timestamp": 1743152207.8101282,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.32782435417175293,
+        "epsilon0": 0.9048147898403269,
+        "epsilon1": 0.9048147898403269
+    },
+    {
+        "episode": 201,
+        "timestamp": 1743152208.0998278,
+        "winner": 1,
+        "turns": 170,
+        "duration_sec": 0.2866787910461426,
+        "epsilon0": 0.9043623824454068,
+        "epsilon1": 0.9043623824454068
+    },
+    {
+        "episode": 202,
+        "timestamp": 1743152208.4419549,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.3390846252441406,
+        "epsilon0": 0.9039102012541841,
+        "epsilon1": 0.9039102012541841
+    },
+    {
+        "episode": 203,
+        "timestamp": 1743152208.781903,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.3365755081176758,
+        "epsilon0": 0.9034582461535571,
+        "epsilon1": 0.9034582461535571
+    },
+    {
+        "episode": 204,
+        "timestamp": 1743152209.1485775,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.36351728439331055,
+        "epsilon0": 0.9030065170304803,
+        "epsilon1": 0.9030065170304803
+    },
+    {
+        "episode": 205,
+        "timestamp": 1743152209.485484,
+        "winner": 1,
+        "turns": 166,
+        "duration_sec": 0.3337523937225342,
+        "epsilon0": 0.9025550137719651,
+        "epsilon1": 0.9025550137719651
+    },
+    {
+        "episode": 206,
+        "timestamp": 1743152209.8503656,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3617897033691406,
+        "epsilon0": 0.9021037362650792,
+        "epsilon1": 0.9021037362650792
+    },
+    {
+        "episode": 207,
+        "timestamp": 1743152210.4375246,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.5840563774108887,
+        "epsilon0": 0.9016526843969468,
+        "epsilon1": 0.9016526843969468
+    },
+    {
+        "episode": 208,
+        "timestamp": 1743152210.7495813,
+        "winner": 1,
+        "turns": 162,
+        "duration_sec": 0.3086280822753906,
+        "epsilon0": 0.9012018580547484,
+        "epsilon1": 0.9012018580547484
+    },
+    {
+        "episode": 209,
+        "timestamp": 1743152211.0725205,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.31970930099487305,
+        "epsilon0": 0.900751257125721,
+        "epsilon1": 0.900751257125721
+    },
+    {
+        "episode": 210,
+        "timestamp": 1743152211.4158814,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.34002685546875,
+        "epsilon0": 0.9003008814971583,
+        "epsilon1": 0.9003008814971583
+    },
+    {
+        "episode": 211,
+        "timestamp": 1743152211.738303,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.31838178634643555,
+        "epsilon0": 0.8998507310564098,
+        "epsilon1": 0.8998507310564098
+    },
+    {
+        "episode": 212,
+        "timestamp": 1743152212.0582974,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.3163797855377197,
+        "epsilon0": 0.8994008056908817,
+        "epsilon1": 0.8994008056908817
+    },
+    {
+        "episode": 213,
+        "timestamp": 1743152212.3807201,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.31935667991638184,
+        "epsilon0": 0.8989511052880362,
+        "epsilon1": 0.8989511052880362
+    },
+    {
+        "episode": 214,
+        "timestamp": 1743152212.7216887,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.3379783630371094,
+        "epsilon0": 0.8985016297353923,
+        "epsilon1": 0.8985016297353923
+    },
+    {
+        "episode": 215,
+        "timestamp": 1743152213.0995307,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.3739473819732666,
+        "epsilon0": 0.8980523789205246,
+        "epsilon1": 0.8980523789205246
+    },
+    {
+        "episode": 216,
+        "timestamp": 1743152213.4412482,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.33888864517211914,
+        "epsilon0": 0.8976033527310644,
+        "epsilon1": 0.8976033527310644
+    },
+    {
+        "episode": 217,
+        "timestamp": 1743152213.7879314,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.34346604347229004,
+        "epsilon0": 0.8971545510546989,
+        "epsilon1": 0.8971545510546989
+    },
+    {
+        "episode": 218,
+        "timestamp": 1743152214.1473486,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.354886531829834,
+        "epsilon0": 0.8967059737791716,
+        "epsilon1": 0.8967059737791716
+    },
+    {
+        "episode": 219,
+        "timestamp": 1743152214.4664748,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.31592893600463867,
+        "epsilon0": 0.8962576207922821,
+        "epsilon1": 0.8962576207922821
+    },
+    {
+        "episode": 220,
+        "timestamp": 1743152214.8456178,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.37552547454833984,
+        "epsilon0": 0.895809491981886,
+        "epsilon1": 0.895809491981886
+    },
+    {
+        "episode": 221,
+        "timestamp": 1743152215.1468465,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.29757022857666016,
+        "epsilon0": 0.8953615872358951,
+        "epsilon1": 0.8953615872358951
+    },
+    {
+        "episode": 222,
+        "timestamp": 1743152215.4704454,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3194403648376465,
+        "epsilon0": 0.8949139064422772,
+        "epsilon1": 0.8949139064422772
+    },
+    {
+        "episode": 223,
+        "timestamp": 1743152215.7870648,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.3133223056793213,
+        "epsilon0": 0.8944664494890561,
+        "epsilon1": 0.8944664494890561
+    },
+    {
+        "episode": 224,
+        "timestamp": 1743152216.172697,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.38240957260131836,
+        "epsilon0": 0.8940192162643116,
+        "epsilon1": 0.8940192162643116
+    },
+    {
+        "episode": 225,
+        "timestamp": 1743152216.6796217,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.5038280487060547,
+        "epsilon0": 0.8935722066561794,
+        "epsilon1": 0.8935722066561794
+    },
+    {
+        "episode": 226,
+        "timestamp": 1743152217.0824993,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.3998112678527832,
+        "epsilon0": 0.8931254205528514,
+        "epsilon1": 0.8931254205528514
+    },
+    {
+        "episode": 227,
+        "timestamp": 1743152217.4543285,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3686692714691162,
+        "epsilon0": 0.8926788578425751,
+        "epsilon1": 0.8926788578425751
+    },
+    {
+        "episode": 228,
+        "timestamp": 1743152217.778347,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.32085466384887695,
+        "epsilon0": 0.8922325184136538,
+        "epsilon1": 0.8922325184136538
+    },
+    {
+        "episode": 229,
+        "timestamp": 1743152218.148418,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.3669154644012451,
+        "epsilon0": 0.891786402154447,
+        "epsilon1": 0.891786402154447
+    },
+    {
+        "episode": 230,
+        "timestamp": 1743152218.4987466,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.3469545841217041,
+        "epsilon0": 0.8913405089533699,
+        "epsilon1": 0.8913405089533699
+    },
+    {
+        "episode": 231,
+        "timestamp": 1743152219.9599733,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 1.4578287601470947,
+        "epsilon0": 0.8908948386988933,
+        "epsilon1": 0.8908948386988933
+    },
+    {
+        "episode": 232,
+        "timestamp": 1743152221.7595193,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 1.7958824634552002,
+        "epsilon0": 0.8904493912795439,
+        "epsilon1": 0.8904493912795439
+    },
+    {
+        "episode": 233,
+        "timestamp": 1743152222.1253786,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.36234116554260254,
+        "epsilon0": 0.8900041665839042,
+        "epsilon1": 0.8900041665839042
+    },
+    {
+        "episode": 234,
+        "timestamp": 1743152222.4184587,
+        "winner": 0,
+        "turns": 147,
+        "duration_sec": 0.28928565979003906,
+        "epsilon0": 0.8895591645006123,
+        "epsilon1": 0.8895591645006123
+    },
+    {
+        "episode": 235,
+        "timestamp": 1743152222.7943716,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.3729374408721924,
+        "epsilon0": 0.889114384918362,
+        "epsilon1": 0.889114384918362
+    },
+    {
+        "episode": 236,
+        "timestamp": 1743152223.1629093,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.3649301528930664,
+        "epsilon0": 0.8886698277259029,
+        "epsilon1": 0.8886698277259029
+    },
+    {
+        "episode": 237,
+        "timestamp": 1743152223.540912,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.3734860420227051,
+        "epsilon0": 0.88822549281204,
+        "epsilon1": 0.88822549281204
+    },
+    {
+        "episode": 238,
+        "timestamp": 1743152223.8805094,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.33623170852661133,
+        "epsilon0": 0.887781380065634,
+        "epsilon1": 0.887781380065634
+    },
+    {
+        "episode": 239,
+        "timestamp": 1743152224.2799861,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.39626598358154297,
+        "epsilon0": 0.8873374893756012,
+        "epsilon1": 0.8873374893756012
+    },
+    {
+        "episode": 240,
+        "timestamp": 1743152224.6269965,
+        "winner": 1,
+        "turns": 176,
+        "duration_sec": 0.343616247177124,
+        "epsilon0": 0.8868938206309135,
+        "epsilon1": 0.8868938206309135
+    },
+    {
+        "episode": 241,
+        "timestamp": 1743152224.9985528,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3679924011230469,
+        "epsilon0": 0.8864503737205981,
+        "epsilon1": 0.8864503737205981
+    },
+    {
+        "episode": 242,
+        "timestamp": 1743152225.3586893,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.3567984104156494,
+        "epsilon0": 0.8860071485337379,
+        "epsilon1": 0.8860071485337379
+    },
+    {
+        "episode": 243,
+        "timestamp": 1743152225.7207758,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.3589620590209961,
+        "epsilon0": 0.885564144959471,
+        "epsilon1": 0.885564144959471
+    },
+    {
+        "episode": 244,
+        "timestamp": 1743152226.05392,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.33003973960876465,
+        "epsilon0": 0.8851213628869913,
+        "epsilon1": 0.8851213628869913
+    },
+    {
+        "episode": 245,
+        "timestamp": 1743152226.3970811,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3400712013244629,
+        "epsilon0": 0.8846788022055478,
+        "epsilon1": 0.8846788022055478
+    },
+    {
+        "episode": 246,
+        "timestamp": 1743152226.7551336,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3547670841217041,
+        "epsilon0": 0.8842364628044451,
+        "epsilon1": 0.8842364628044451
+    },
+    {
+        "episode": 247,
+        "timestamp": 1743152227.1013448,
+        "winner": 1,
+        "turns": 172,
+        "duration_sec": 0.3415074348449707,
+        "epsilon0": 0.883794344573043,
+        "epsilon1": 0.883794344573043
+    },
+    {
+        "episode": 248,
+        "timestamp": 1743152227.453844,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.3488810062408447,
+        "epsilon0": 0.8833524474007565,
+        "epsilon1": 0.8833524474007565
+    },
+    {
+        "episode": 249,
+        "timestamp": 1743152227.8146443,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.3567829132080078,
+        "epsilon0": 0.8829107711770562,
+        "epsilon1": 0.8829107711770562
+    },
+    {
+        "episode": 250,
+        "timestamp": 1743152261.3241193,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 32.496758699417114,
+        "epsilon0": 0.8824693157914677,
+        "epsilon1": 0.8824693157914677
+    },
+    {
+        "episode": 251,
+        "timestamp": 1743152261.709937,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.38141798973083496,
+        "epsilon0": 0.882028081133572,
+        "epsilon1": 0.882028081133572
+    },
+    {
+        "episode": 252,
+        "timestamp": 1743152262.0595503,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.34531664848327637,
+        "epsilon0": 0.8815870670930053,
+        "epsilon1": 0.8815870670930053
+    },
+    {
+        "episode": 253,
+        "timestamp": 1743152262.449415,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.38644933700561523,
+        "epsilon0": 0.8811462735594588,
+        "epsilon1": 0.8811462735594588
+    },
+    {
+        "episode": 254,
+        "timestamp": 1743152262.837077,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.38417720794677734,
+        "epsilon0": 0.8807057004226791,
+        "epsilon1": 0.8807057004226791
+    },
+    {
+        "episode": 255,
+        "timestamp": 1743152263.178717,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3381497859954834,
+        "epsilon0": 0.8802653475724679,
+        "epsilon1": 0.8802653475724679
+    },
+    {
+        "episode": 256,
+        "timestamp": 1743152263.5027585,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.31723952293395996,
+        "epsilon0": 0.8798252148986817,
+        "epsilon1": 0.8798252148986817
+    },
+    {
+        "episode": 257,
+        "timestamp": 1743152263.7998545,
+        "winner": 1,
+        "turns": 166,
+        "duration_sec": 0.2917606830596924,
+        "epsilon0": 0.8793853022912325,
+        "epsilon1": 0.8793853022912325
+    },
+    {
+        "episode": 258,
+        "timestamp": 1743152264.0865958,
+        "winner": 0,
+        "turns": 169,
+        "duration_sec": 0.28348755836486816,
+        "epsilon0": 0.8789456096400869,
+        "epsilon1": 0.8789456096400869
+    },
+    {
+        "episode": 259,
+        "timestamp": 1743152264.407122,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3174476623535156,
+        "epsilon0": 0.8785061368352669,
+        "epsilon1": 0.8785061368352669
+    },
+    {
+        "episode": 260,
+        "timestamp": 1743152264.7153287,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.30457043647766113,
+        "epsilon0": 0.8780668837668493,
+        "epsilon1": 0.8780668837668493
+    },
+    {
+        "episode": 261,
+        "timestamp": 1743152265.0640903,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.34448933601379395,
+        "epsilon0": 0.8776278503249659,
+        "epsilon1": 0.8776278503249659
+    },
+    {
+        "episode": 262,
+        "timestamp": 1743152265.3862784,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.31913161277770996,
+        "epsilon0": 0.8771890363998035,
+        "epsilon1": 0.8771890363998035
+    },
+    {
+        "episode": 263,
+        "timestamp": 1743152265.6998515,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.3102695941925049,
+        "epsilon0": 0.8767504418816037,
+        "epsilon1": 0.8767504418816037
+    },
+    {
+        "episode": 264,
+        "timestamp": 1743152266.0515,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.3484518527984619,
+        "epsilon0": 0.876312066660663,
+        "epsilon1": 0.876312066660663
+    },
+    {
+        "episode": 265,
+        "timestamp": 1743152266.3933434,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.33897829055786133,
+        "epsilon0": 0.8758739106273327,
+        "epsilon1": 0.8758739106273327
+    },
+    {
+        "episode": 266,
+        "timestamp": 1743152266.7377822,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3407902717590332,
+        "epsilon0": 0.8754359736720191,
+        "epsilon1": 0.8754359736720191
+    },
+    {
+        "episode": 267,
+        "timestamp": 1743152267.081714,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3409273624420166,
+        "epsilon0": 0.8749982556851831,
+        "epsilon1": 0.8749982556851831
+    },
+    {
+        "episode": 268,
+        "timestamp": 1743152267.4013555,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.31613612174987793,
+        "epsilon0": 0.8745607565573406,
+        "epsilon1": 0.8745607565573406
+    },
+    {
+        "episode": 269,
+        "timestamp": 1743152267.7647443,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3596923351287842,
+        "epsilon0": 0.8741234761790619,
+        "epsilon1": 0.8741234761790619
+    },
+    {
+        "episode": 270,
+        "timestamp": 1743152268.1269393,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.3572824001312256,
+        "epsilon0": 0.8736864144409725,
+        "epsilon1": 0.8736864144409725
+    },
+    {
+        "episode": 271,
+        "timestamp": 1743152268.471751,
+        "winner": 1,
+        "turns": 164,
+        "duration_sec": 0.341017484664917,
+        "epsilon0": 0.873249571233752,
+        "epsilon1": 0.873249571233752
+    },
+    {
+        "episode": 272,
+        "timestamp": 1743152268.8388183,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.36412715911865234,
+        "epsilon0": 0.8728129464481352,
+        "epsilon1": 0.8728129464481352
+    },
+    {
+        "episode": 273,
+        "timestamp": 1743152269.3289866,
+        "winner": 1,
+        "turns": 172,
+        "duration_sec": 0.48690056800842285,
+        "epsilon0": 0.8723765399749112,
+        "epsilon1": 0.8723765399749112
+    },
+    {
+        "episode": 274,
+        "timestamp": 1743152269.644391,
+        "winner": 0,
+        "turns": 169,
+        "duration_sec": 0.310638427734375,
+        "epsilon0": 0.8719403517049238,
+        "epsilon1": 0.8719403517049238
+    },
+    {
+        "episode": 275,
+        "timestamp": 1743152269.9354465,
+        "winner": 1,
+        "turns": 176,
+        "duration_sec": 0.2881488800048828,
+        "epsilon0": 0.8715043815290714,
+        "epsilon1": 0.8715043815290714
+    },
+    {
+        "episode": 276,
+        "timestamp": 1743152270.2096868,
+        "winner": 0,
+        "turns": 163,
+        "duration_sec": 0.27125000953674316,
+        "epsilon0": 0.8710686293383069,
+        "epsilon1": 0.8710686293383069
+    },
+    {
+        "episode": 277,
+        "timestamp": 1743152270.5456579,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.33291101455688477,
+        "epsilon0": 0.8706330950236377,
+        "epsilon1": 0.8706330950236377
+    },
+    {
+        "episode": 278,
+        "timestamp": 1743152270.8410833,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.2925140857696533,
+        "epsilon0": 0.870197778476126,
+        "epsilon1": 0.870197778476126
+    },
+    {
+        "episode": 279,
+        "timestamp": 1743152271.190019,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.3451974391937256,
+        "epsilon0": 0.869762679586888,
+        "epsilon1": 0.869762679586888
+    },
+    {
+        "episode": 280,
+        "timestamp": 1743152271.49665,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3037240505218506,
+        "epsilon0": 0.8693277982470946,
+        "epsilon1": 0.8693277982470946
+    },
+    {
+        "episode": 281,
+        "timestamp": 1743152271.8136866,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.31337738037109375,
+        "epsilon0": 0.8688931343479711,
+        "epsilon1": 0.8688931343479711
+    },
+    {
+        "episode": 282,
+        "timestamp": 1743152272.1391122,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.32230091094970703,
+        "epsilon0": 0.8684586877807972,
+        "epsilon1": 0.8684586877807972
+    },
+    {
+        "episode": 283,
+        "timestamp": 1743152272.4677033,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.3254997730255127,
+        "epsilon0": 0.8680244584369068,
+        "epsilon1": 0.8680244584369068
+    },
+    {
+        "episode": 284,
+        "timestamp": 1743152272.8395085,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3673741817474365,
+        "epsilon0": 0.8675904462076884,
+        "epsilon1": 0.8675904462076884
+    },
+    {
+        "episode": 285,
+        "timestamp": 1743152273.206693,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.36333298683166504,
+        "epsilon0": 0.8671566509845846,
+        "epsilon1": 0.8671566509845846
+    },
+    {
+        "episode": 286,
+        "timestamp": 1743152273.7661238,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.5558278560638428,
+        "epsilon0": 0.8667230726590923,
+        "epsilon1": 0.8667230726590923
+    },
+    {
+        "episode": 287,
+        "timestamp": 1743152274.1336842,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.36424970626831055,
+        "epsilon0": 0.8662897111227629,
+        "epsilon1": 0.8662897111227629
+    },
+    {
+        "episode": 288,
+        "timestamp": 1743152274.49819,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.3614068031311035,
+        "epsilon0": 0.8658565662672015,
+        "epsilon1": 0.8658565662672015
+    },
+    {
+        "episode": 289,
+        "timestamp": 1743152274.8419805,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.3404841423034668,
+        "epsilon0": 0.865423637984068,
+        "epsilon1": 0.865423637984068
+    },
+    {
+        "episode": 290,
+        "timestamp": 1743152275.2258444,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.3808305263519287,
+        "epsilon0": 0.864990926165076,
+        "epsilon1": 0.864990926165076
+    },
+    {
+        "episode": 291,
+        "timestamp": 1743152275.5720954,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.3424694538116455,
+        "epsilon0": 0.8645584307019936,
+        "epsilon1": 0.8645584307019936
+    },
+    {
+        "episode": 292,
+        "timestamp": 1743152275.9016204,
+        "winner": 1,
+        "turns": 164,
+        "duration_sec": 0.3259274959564209,
+        "epsilon0": 0.8641261514866426,
+        "epsilon1": 0.8641261514866426
+    },
+    {
+        "episode": 293,
+        "timestamp": 1743152276.282309,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.37752652168273926,
+        "epsilon0": 0.8636940884108993,
+        "epsilon1": 0.8636940884108993
+    },
+    {
+        "episode": 294,
+        "timestamp": 1743152276.7164364,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.4310481548309326,
+        "epsilon0": 0.8632622413666939,
+        "epsilon1": 0.8632622413666939
+    },
+    {
+        "episode": 295,
+        "timestamp": 1743152277.1742811,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.45412349700927734,
+        "epsilon0": 0.8628306102460106,
+        "epsilon1": 0.8628306102460106
+    },
+    {
+        "episode": 296,
+        "timestamp": 1743152277.6094587,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.4313488006591797,
+        "epsilon0": 0.8623991949408877,
+        "epsilon1": 0.8623991949408877
+    },
+    {
+        "episode": 297,
+        "timestamp": 1743152277.9712584,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.35800671577453613,
+        "epsilon0": 0.8619679953434173,
+        "epsilon1": 0.8619679953434173
+    },
+    {
+        "episode": 298,
+        "timestamp": 1743152278.2881167,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3136789798736572,
+        "epsilon0": 0.8615370113457457,
+        "epsilon1": 0.8615370113457457
+    },
+    {
+        "episode": 299,
+        "timestamp": 1743152278.6142817,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3231823444366455,
+        "epsilon0": 0.8611062428400729,
+        "epsilon1": 0.8611062428400729
+    },
+    {
+        "episode": 300,
+        "timestamp": 1743152278.8973045,
+        "winner": 1,
+        "turns": 166,
+        "duration_sec": 0.28014492988586426,
+        "epsilon0": 0.8606756897186528,
+        "epsilon1": 0.8606756897186528
+    },
+    {
+        "episode": 301,
+        "timestamp": 1743152279.256856,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.35575008392333984,
+        "epsilon0": 0.8602453518737936,
+        "epsilon1": 0.8602453518737936
+    },
+    {
+        "episode": 302,
+        "timestamp": 1743152279.5620933,
+        "winner": 1,
+        "turns": 156,
+        "duration_sec": 0.3014531135559082,
+        "epsilon0": 0.8598152291978567,
+        "epsilon1": 0.8598152291978567
+    },
+    {
+        "episode": 303,
+        "timestamp": 1743152279.8610003,
+        "winner": 0,
+        "turns": 165,
+        "duration_sec": 0.2958333492279053,
+        "epsilon0": 0.8593853215832578,
+        "epsilon1": 0.8593853215832578
+    },
+    {
+        "episode": 304,
+        "timestamp": 1743152280.2002587,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3363044261932373,
+        "epsilon0": 0.8589556289224661,
+        "epsilon1": 0.8589556289224661
+    },
+    {
+        "episode": 305,
+        "timestamp": 1743152280.5175712,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.3143179416656494,
+        "epsilon0": 0.8585261511080049,
+        "epsilon1": 0.8585261511080049
+    },
+    {
+        "episode": 306,
+        "timestamp": 1743152280.847524,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3269658088684082,
+        "epsilon0": 0.858096888032451,
+        "epsilon1": 0.858096888032451
+    },
+    {
+        "episode": 307,
+        "timestamp": 1743152281.1878796,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.33733677864074707,
+        "epsilon0": 0.8576678395884348,
+        "epsilon1": 0.8576678395884348
+    },
+    {
+        "episode": 308,
+        "timestamp": 1743152281.5224864,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.33107805252075195,
+        "epsilon0": 0.8572390056686406,
+        "epsilon1": 0.8572390056686406
+    },
+    {
+        "episode": 309,
+        "timestamp": 1743152281.8454556,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.3195188045501709,
+        "epsilon0": 0.8568103861658064,
+        "epsilon1": 0.8568103861658064
+    },
+    {
+        "episode": 310,
+        "timestamp": 1743152282.1669924,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.31848835945129395,
+        "epsilon0": 0.8563819809727236,
+        "epsilon1": 0.8563819809727236
+    },
+    {
+        "episode": 311,
+        "timestamp": 1743152282.4797862,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.3092193603515625,
+        "epsilon0": 0.8559537899822373,
+        "epsilon1": 0.8559537899822373
+    },
+    {
+        "episode": 312,
+        "timestamp": 1743152282.83519,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.352571964263916,
+        "epsilon0": 0.8555258130872462,
+        "epsilon1": 0.8555258130872462
+    },
+    {
+        "episode": 313,
+        "timestamp": 1743152283.1362412,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.2975029945373535,
+        "epsilon0": 0.8550980501807026,
+        "epsilon1": 0.8550980501807026
+    },
+    {
+        "episode": 314,
+        "timestamp": 1743152283.471575,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.33170485496520996,
+        "epsilon0": 0.8546705011556123,
+        "epsilon1": 0.8546705011556123
+    },
+    {
+        "episode": 315,
+        "timestamp": 1743152283.7820067,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.30721378326416016,
+        "epsilon0": 0.8542431659050345,
+        "epsilon1": 0.8542431659050345
+    },
+    {
+        "episode": 316,
+        "timestamp": 1743152286.6762223,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 2.8903188705444336,
+        "epsilon0": 0.853816044322082,
+        "epsilon1": 0.853816044322082
+    },
+    {
+        "episode": 317,
+        "timestamp": 1743152286.9911413,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.31139373779296875,
+        "epsilon0": 0.8533891362999211,
+        "epsilon1": 0.8533891362999211
+    },
+    {
+        "episode": 318,
+        "timestamp": 1743152287.3177452,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.32331132888793945,
+        "epsilon0": 0.8529624417317712,
+        "epsilon1": 0.8529624417317712
+    },
+    {
+        "episode": 319,
+        "timestamp": 1743152287.6076097,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.2868344783782959,
+        "epsilon0": 0.8525359605109053,
+        "epsilon1": 0.8525359605109053
+    },
+    {
+        "episode": 320,
+        "timestamp": 1743152287.8905299,
+        "winner": 0,
+        "turns": 165,
+        "duration_sec": 0.2799680233001709,
+        "epsilon0": 0.8521096925306499,
+        "epsilon1": 0.8521096925306499
+    },
+    {
+        "episode": 321,
+        "timestamp": 1743152288.2023935,
+        "winner": 1,
+        "turns": 176,
+        "duration_sec": 0.3087337017059326,
+        "epsilon0": 0.8516836376843847,
+        "epsilon1": 0.8516836376843847
+    },
+    {
+        "episode": 322,
+        "timestamp": 1743152288.544631,
+        "winner": 1,
+        "turns": 176,
+        "duration_sec": 0.33918333053588867,
+        "epsilon0": 0.8512577958655425,
+        "epsilon1": 0.8512577958655425
+    },
+    {
+        "episode": 323,
+        "timestamp": 1743152288.8939426,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.34571051597595215,
+        "epsilon0": 0.8508321669676098,
+        "epsilon1": 0.8508321669676098
+    },
+    {
+        "episode": 324,
+        "timestamp": 1743152289.5044076,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.6074635982513428,
+        "epsilon0": 0.850406750884126,
+        "epsilon1": 0.850406750884126
+    },
+    {
+        "episode": 325,
+        "timestamp": 1743152289.791477,
+        "winner": 0,
+        "turns": 169,
+        "duration_sec": 0.28414440155029297,
+        "epsilon0": 0.8499815475086839,
+        "epsilon1": 0.8499815475086839
+    },
+    {
+        "episode": 326,
+        "timestamp": 1743152290.1383414,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.34378576278686523,
+        "epsilon0": 0.8495565567349297,
+        "epsilon1": 0.8495565567349297
+    },
+    {
+        "episode": 327,
+        "timestamp": 1743152290.528835,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.38681626319885254,
+        "epsilon0": 0.8491317784565623,
+        "epsilon1": 0.8491317784565623
+    },
+    {
+        "episode": 328,
+        "timestamp": 1743152290.9205163,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.38790082931518555,
+        "epsilon0": 0.8487072125673341,
+        "epsilon1": 0.8487072125673341
+    },
+    {
+        "episode": 329,
+        "timestamp": 1743152291.3212829,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.3968391418457031,
+        "epsilon0": 0.8482828589610505,
+        "epsilon1": 0.8482828589610505
+    },
+    {
+        "episode": 330,
+        "timestamp": 1743152291.7502124,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.4251821041107178,
+        "epsilon0": 0.84785871753157,
+        "epsilon1": 0.84785871753157
+    },
+    {
+        "episode": 331,
+        "timestamp": 1743152292.1590724,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.40346550941467285,
+        "epsilon0": 0.8474347881728043,
+        "epsilon1": 0.8474347881728043
+    },
+    {
+        "episode": 332,
+        "timestamp": 1743152292.546135,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.38372039794921875,
+        "epsilon0": 0.847011070778718,
+        "epsilon1": 0.847011070778718
+    },
+    {
+        "episode": 333,
+        "timestamp": 1743152292.9795623,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.4301888942718506,
+        "epsilon0": 0.8465875652433287,
+        "epsilon1": 0.8465875652433287
+    },
+    {
+        "episode": 334,
+        "timestamp": 1743152293.390525,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.40750694274902344,
+        "epsilon0": 0.846164271460707,
+        "epsilon1": 0.846164271460707
+    },
+    {
+        "episode": 335,
+        "timestamp": 1743152293.792456,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.3971986770629883,
+        "epsilon0": 0.8457411893249768,
+        "epsilon1": 0.8457411893249768
+    },
+    {
+        "episode": 336,
+        "timestamp": 1743152294.327621,
+        "winner": 1,
+        "turns": 190,
+        "duration_sec": 0.5316777229309082,
+        "epsilon0": 0.8453183187303144,
+        "epsilon1": 0.8453183187303144
+    },
+    {
+        "episode": 337,
+        "timestamp": 1743152294.732928,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.40070462226867676,
+        "epsilon0": 0.8448956595709493,
+        "epsilon1": 0.8448956595709493
+    },
+    {
+        "episode": 338,
+        "timestamp": 1743152295.224,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.48743510246276855,
+        "epsilon0": 0.8444732117411639,
+        "epsilon1": 0.8444732117411639
+    },
+    {
+        "episode": 339,
+        "timestamp": 1743152295.6509233,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.42312049865722656,
+        "epsilon0": 0.8440509751352934,
+        "epsilon1": 0.8440509751352934
+    },
+    {
+        "episode": 340,
+        "timestamp": 1743152296.0697684,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.4148216247558594,
+        "epsilon0": 0.8436289496477257,
+        "epsilon1": 0.8436289496477257
+    },
+    {
+        "episode": 341,
+        "timestamp": 1743152296.4707916,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3956563472747803,
+        "epsilon0": 0.8432071351729019,
+        "epsilon1": 0.8432071351729019
+    },
+    {
+        "episode": 342,
+        "timestamp": 1743152296.8184342,
+        "winner": 1,
+        "turns": 162,
+        "duration_sec": 0.34400367736816406,
+        "epsilon0": 0.8427855316053156,
+        "epsilon1": 0.8427855316053156
+    },
+    {
+        "episode": 343,
+        "timestamp": 1743152297.2179673,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.39618563652038574,
+        "epsilon0": 0.8423641388395129,
+        "epsilon1": 0.8423641388395129
+    },
+    {
+        "episode": 344,
+        "timestamp": 1743152297.6669025,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.44583916664123535,
+        "epsilon0": 0.8419429567700932,
+        "epsilon1": 0.8419429567700932
+    },
+    {
+        "episode": 345,
+        "timestamp": 1743152298.2088041,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.5385944843292236,
+        "epsilon0": 0.8415219852917082,
+        "epsilon1": 0.8415219852917082
+    },
+    {
+        "episode": 346,
+        "timestamp": 1743152298.588982,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.3768136501312256,
+        "epsilon0": 0.8411012242990624,
+        "epsilon1": 0.8411012242990624
+    },
+    {
+        "episode": 347,
+        "timestamp": 1743152298.9835308,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3906667232513428,
+        "epsilon0": 0.8406806736869129,
+        "epsilon1": 0.8406806736869129
+    },
+    {
+        "episode": 348,
+        "timestamp": 1743152299.3769317,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.3894014358520508,
+        "epsilon0": 0.8402603333500694,
+        "epsilon1": 0.8402603333500694
+    },
+    {
+        "episode": 349,
+        "timestamp": 1743152299.813743,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.43274378776550293,
+        "epsilon0": 0.8398402031833945,
+        "epsilon1": 0.8398402031833945
+    },
+    {
+        "episode": 350,
+        "timestamp": 1743152300.21568,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.3974308967590332,
+        "epsilon0": 0.8394202830818028,
+        "epsilon1": 0.8394202830818028
+    },
+    {
+        "episode": 351,
+        "timestamp": 1743152300.6096308,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.3898050785064697,
+        "epsilon0": 0.839000572940262,
+        "epsilon1": 0.839000572940262
+    },
+    {
+        "episode": 352,
+        "timestamp": 1743152301.0660682,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.45270729064941406,
+        "epsilon0": 0.8385810726537919,
+        "epsilon1": 0.8385810726537919
+    },
+    {
+        "episode": 353,
+        "timestamp": 1743152301.5144536,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.44443821907043457,
+        "epsilon0": 0.8381617821174651,
+        "epsilon1": 0.8381617821174651
+    },
+    {
+        "episode": 354,
+        "timestamp": 1743152301.9706197,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.4515502452850342,
+        "epsilon0": 0.8377427012264064,
+        "epsilon1": 0.8377427012264064
+    },
+    {
+        "episode": 355,
+        "timestamp": 1743152302.4688404,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.4949367046356201,
+        "epsilon0": 0.8373238298757932,
+        "epsilon1": 0.8373238298757932
+    },
+    {
+        "episode": 356,
+        "timestamp": 1743152302.8831546,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.41068124771118164,
+        "epsilon0": 0.8369051679608553,
+        "epsilon1": 0.8369051679608553
+    },
+    {
+        "episode": 357,
+        "timestamp": 1743152303.321938,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.4345555305480957,
+        "epsilon0": 0.8364867153768749,
+        "epsilon1": 0.8364867153768749
+    },
+    {
+        "episode": 358,
+        "timestamp": 1743152303.7631118,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.43587565422058105,
+        "epsilon0": 0.8360684720191865,
+        "epsilon1": 0.8360684720191865
+    },
+    {
+        "episode": 359,
+        "timestamp": 1743152304.2417173,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.47211742401123047,
+        "epsilon0": 0.835650437783177,
+        "epsilon1": 0.835650437783177
+    },
+    {
+        "episode": 360,
+        "timestamp": 1743152304.8455305,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.5992887020111084,
+        "epsilon0": 0.8352326125642855,
+        "epsilon1": 0.8352326125642855
+    },
+    {
+        "episode": 361,
+        "timestamp": 1743152305.339973,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.4899938106536865,
+        "epsilon0": 0.8348149962580034,
+        "epsilon1": 0.8348149962580034
+    },
+    {
+        "episode": 362,
+        "timestamp": 1743152306.0670013,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.713170051574707,
+        "epsilon0": 0.8343975887598745,
+        "epsilon1": 0.8343975887598745
+    },
+    {
+        "episode": 363,
+        "timestamp": 1743152306.595026,
+        "winner": 0,
+        "turns": 163,
+        "duration_sec": 0.5247642993927002,
+        "epsilon0": 0.8339803899654946,
+        "epsilon1": 0.8339803899654946
+    },
+    {
+        "episode": 364,
+        "timestamp": 1743152307.0355077,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.43695497512817383,
+        "epsilon0": 0.833563399770512,
+        "epsilon1": 0.833563399770512
+    },
+    {
+        "episode": 365,
+        "timestamp": 1743152307.3944466,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3560049533843994,
+        "epsilon0": 0.8331466180706267,
+        "epsilon1": 0.8331466180706267
+    },
+    {
+        "episode": 366,
+        "timestamp": 1743152307.739277,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.34130215644836426,
+        "epsilon0": 0.8327300447615915,
+        "epsilon1": 0.8327300447615915
+    },
+    {
+        "episode": 367,
+        "timestamp": 1743152308.122211,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.37984609603881836,
+        "epsilon0": 0.8323136797392108,
+        "epsilon1": 0.8323136797392108
+    },
+    {
+        "episode": 368,
+        "timestamp": 1743152308.4544237,
+        "winner": 0,
+        "turns": 173,
+        "duration_sec": 0.32898521423339844,
+        "epsilon0": 0.8318975228993413,
+        "epsilon1": 0.8318975228993413
+    },
+    {
+        "episode": 369,
+        "timestamp": 1743152308.8443718,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.386368989944458,
+        "epsilon0": 0.8314815741378917,
+        "epsilon1": 0.8314815741378917
+    },
+    {
+        "episode": 370,
+        "timestamp": 1743152309.172689,
+        "winner": 0,
+        "turns": 169,
+        "duration_sec": 0.3252236843109131,
+        "epsilon0": 0.8310658333508228,
+        "epsilon1": 0.8310658333508228
+    },
+    {
+        "episode": 371,
+        "timestamp": 1743152309.5627763,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3865225315093994,
+        "epsilon0": 0.8306503004341474,
+        "epsilon1": 0.8306503004341474
+    },
+    {
+        "episode": 372,
+        "timestamp": 1743152309.9915514,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.42539095878601074,
+        "epsilon0": 0.8302349752839304,
+        "epsilon1": 0.8302349752839304
+    },
+    {
+        "episode": 373,
+        "timestamp": 1743152310.4015355,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.4066002368927002,
+        "epsilon0": 0.8298198577962885,
+        "epsilon1": 0.8298198577962885
+    },
+    {
+        "episode": 374,
+        "timestamp": 1743152310.7828236,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.3779299259185791,
+        "epsilon0": 0.8294049478673904,
+        "epsilon1": 0.8294049478673904
+    },
+    {
+        "episode": 375,
+        "timestamp": 1743152311.1123881,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.3261442184448242,
+        "epsilon0": 0.8289902453934568,
+        "epsilon1": 0.8289902453934568
+    },
+    {
+        "episode": 376,
+        "timestamp": 1743152311.452523,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.33720850944519043,
+        "epsilon0": 0.8285757502707601,
+        "epsilon1": 0.8285757502707601
+    },
+    {
+        "episode": 377,
+        "timestamp": 1743152311.782091,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.32403135299682617,
+        "epsilon0": 0.8281614623956248,
+        "epsilon1": 0.8281614623956248
+    },
+    {
+        "episode": 378,
+        "timestamp": 1743152312.122573,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.33690524101257324,
+        "epsilon0": 0.8277473816644271,
+        "epsilon1": 0.8277473816644271
+    },
+    {
+        "episode": 379,
+        "timestamp": 1743152312.436764,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3108189105987549,
+        "epsilon0": 0.827333507973595,
+        "epsilon1": 0.827333507973595
+    },
+    {
+        "episode": 380,
+        "timestamp": 1743152312.7766538,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.3366200923919678,
+        "epsilon0": 0.8269198412196082,
+        "epsilon1": 0.8269198412196082
+    },
+    {
+        "episode": 381,
+        "timestamp": 1743152313.1142035,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.33353376388549805,
+        "epsilon0": 0.8265063812989984,
+        "epsilon1": 0.8265063812989984
+    },
+    {
+        "episode": 382,
+        "timestamp": 1743152313.6327426,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.5151915550231934,
+        "epsilon0": 0.826093128108349,
+        "epsilon1": 0.826093128108349
+    },
+    {
+        "episode": 383,
+        "timestamp": 1743152313.9693198,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.33312368392944336,
+        "epsilon0": 0.8256800815442948,
+        "epsilon1": 0.8256800815442948
+    },
+    {
+        "episode": 384,
+        "timestamp": 1743152314.2785213,
+        "winner": 0,
+        "turns": 171,
+        "duration_sec": 0.30614709854125977,
+        "epsilon0": 0.8252672415035227,
+        "epsilon1": 0.8252672415035227
+    },
+    {
+        "episode": 385,
+        "timestamp": 1743152314.6024206,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3208804130554199,
+        "epsilon0": 0.824854607882771,
+        "epsilon1": 0.824854607882771
+    },
+    {
+        "episode": 386,
+        "timestamp": 1743152314.950432,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.34450387954711914,
+        "epsilon0": 0.8244421805788297,
+        "epsilon1": 0.8244421805788297
+    },
+    {
+        "episode": 387,
+        "timestamp": 1743152315.3002284,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.3467369079589844,
+        "epsilon0": 0.8240299594885403,
+        "epsilon1": 0.8240299594885403
+    },
+    {
+        "episode": 388,
+        "timestamp": 1743152315.6336362,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3291208744049072,
+        "epsilon0": 0.8236179445087961,
+        "epsilon1": 0.8236179445087961
+    },
+    {
+        "episode": 389,
+        "timestamp": 1743152315.990177,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.3534848690032959,
+        "epsilon0": 0.8232061355365418,
+        "epsilon1": 0.8232061355365418
+    },
+    {
+        "episode": 390,
+        "timestamp": 1743152316.4674494,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.4732475280761719,
+        "epsilon0": 0.8227945324687735,
+        "epsilon1": 0.8227945324687735
+    },
+    {
+        "episode": 391,
+        "timestamp": 1743152319.4927962,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 3.020679235458374,
+        "epsilon0": 0.8223831352025393,
+        "epsilon1": 0.8223831352025393
+    },
+    {
+        "episode": 392,
+        "timestamp": 1743152320.001132,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.5051019191741943,
+        "epsilon0": 0.821971943634938,
+        "epsilon1": 0.821971943634938
+    },
+    {
+        "episode": 393,
+        "timestamp": 1743152320.4605162,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.4544031620025635,
+        "epsilon0": 0.8215609576631205,
+        "epsilon1": 0.8215609576631205
+    },
+    {
+        "episode": 394,
+        "timestamp": 1743152320.9525828,
+        "winner": 1,
+        "turns": 178,
+        "duration_sec": 0.4858851432800293,
+        "epsilon0": 0.8211501771842891,
+        "epsilon1": 0.8211501771842891
+    },
+    {
+        "episode": 395,
+        "timestamp": 1743152321.5573592,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.6004853248596191,
+        "epsilon0": 0.820739602095697,
+        "epsilon1": 0.820739602095697
+    },
+    {
+        "episode": 396,
+        "timestamp": 1743152322.020137,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.4595186710357666,
+        "epsilon0": 0.8203292322946492,
+        "epsilon1": 0.8203292322946492
+    },
+    {
+        "episode": 397,
+        "timestamp": 1743152322.4461665,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.4223966598510742,
+        "epsilon0": 0.8199190676785019,
+        "epsilon1": 0.8199190676785019
+    },
+    {
+        "episode": 398,
+        "timestamp": 1743152323.0185869,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.5690667629241943,
+        "epsilon0": 0.8195091081446627,
+        "epsilon1": 0.8195091081446627
+    },
+    {
+        "episode": 399,
+        "timestamp": 1743152323.3696644,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.3466947078704834,
+        "epsilon0": 0.8190993535905904,
+        "epsilon1": 0.8190993535905904
+    },
+    {
+        "episode": 400,
+        "timestamp": 1743152323.7010148,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3279383182525635,
+        "epsilon0": 0.8186898039137951,
+        "epsilon1": 0.8186898039137951
+    },
+    {
+        "episode": 401,
+        "timestamp": 1743152324.030807,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3264737129211426,
+        "epsilon0": 0.8182804590118382,
+        "epsilon1": 0.8182804590118382
+    },
+    {
+        "episode": 402,
+        "timestamp": 1743152324.351103,
+        "winner": 1,
+        "turns": 168,
+        "duration_sec": 0.31708717346191406,
+        "epsilon0": 0.8178713187823323,
+        "epsilon1": 0.8178713187823323
+    },
+    {
+        "episode": 403,
+        "timestamp": 1743152324.6642883,
+        "winner": 1,
+        "turns": 176,
+        "duration_sec": 0.31022047996520996,
+        "epsilon0": 0.8174623831229412,
+        "epsilon1": 0.8174623831229412
+    },
+    {
+        "episode": 404,
+        "timestamp": 1743152325.0111601,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.34302258491516113,
+        "epsilon0": 0.8170536519313798,
+        "epsilon1": 0.8170536519313798
+    },
+    {
+        "episode": 405,
+        "timestamp": 1743152325.3368013,
+        "winner": 0,
+        "turns": 171,
+        "duration_sec": 0.3217298984527588,
+        "epsilon0": 0.8166451251054142,
+        "epsilon1": 0.8166451251054142
+    },
+    {
+        "episode": 406,
+        "timestamp": 1743152325.687899,
+        "winner": 1,
+        "turns": 166,
+        "duration_sec": 0.34671854972839355,
+        "epsilon0": 0.8162368025428616,
+        "epsilon1": 0.8162368025428616
+    },
+    {
+        "episode": 407,
+        "timestamp": 1743152326.0725904,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.38098645210266113,
+        "epsilon0": 0.8158286841415902,
+        "epsilon1": 0.8158286841415902
+    },
+    {
+        "episode": 408,
+        "timestamp": 1743152326.4255245,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.34893226623535156,
+        "epsilon0": 0.8154207697995194,
+        "epsilon1": 0.8154207697995194
+    },
+    {
+        "episode": 409,
+        "timestamp": 1743152326.7319005,
+        "winner": 1,
+        "turns": 168,
+        "duration_sec": 0.30260539054870605,
+        "epsilon0": 0.8150130594146197,
+        "epsilon1": 0.8150130594146197
+    },
+    {
+        "episode": 410,
+        "timestamp": 1743152327.0814924,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3465428352355957,
+        "epsilon0": 0.8146055528849124,
+        "epsilon1": 0.8146055528849124
+    },
+    {
+        "episode": 411,
+        "timestamp": 1743152327.4692936,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.38449645042419434,
+        "epsilon0": 0.81419825010847,
+        "epsilon1": 0.81419825010847
+    },
+    {
+        "episode": 412,
+        "timestamp": 1743152327.9474013,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.47342920303344727,
+        "epsilon0": 0.8137911509834158,
+        "epsilon1": 0.8137911509834158
+    },
+    {
+        "episode": 413,
+        "timestamp": 1743152328.2801294,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.3276803493499756,
+        "epsilon0": 0.8133842554079241,
+        "epsilon1": 0.8133842554079241
+    },
+    {
+        "episode": 414,
+        "timestamp": 1743152328.6137357,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.33002614974975586,
+        "epsilon0": 0.8129775632802202,
+        "epsilon1": 0.8129775632802202
+    },
+    {
+        "episode": 415,
+        "timestamp": 1743152328.9454353,
+        "winner": 0,
+        "turns": 169,
+        "duration_sec": 0.32860565185546875,
+        "epsilon0": 0.8125710744985801,
+        "epsilon1": 0.8125710744985801
+    },
+    {
+        "episode": 416,
+        "timestamp": 1743152329.273678,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.32451295852661133,
+        "epsilon0": 0.8121647889613309,
+        "epsilon1": 0.8121647889613309
+    },
+    {
+        "episode": 417,
+        "timestamp": 1743152329.616288,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.33959436416625977,
+        "epsilon0": 0.8117587065668503,
+        "epsilon1": 0.8117587065668503
+    },
+    {
+        "episode": 418,
+        "timestamp": 1743152329.9847207,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3651468753814697,
+        "epsilon0": 0.8113528272135669,
+        "epsilon1": 0.8113528272135669
+    },
+    {
+        "episode": 419,
+        "timestamp": 1743152330.4240222,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.43465566635131836,
+        "epsilon0": 0.8109471507999602,
+        "epsilon1": 0.8109471507999602
+    },
+    {
+        "episode": 420,
+        "timestamp": 1743152330.758917,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3316025733947754,
+        "epsilon0": 0.8105416772245603,
+        "epsilon1": 0.8105416772245603
+    },
+    {
+        "episode": 421,
+        "timestamp": 1743152331.1126008,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.3498384952545166,
+        "epsilon0": 0.8101364063859481,
+        "epsilon1": 0.8101364063859481
+    },
+    {
+        "episode": 422,
+        "timestamp": 1743152331.4553807,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.33922338485717773,
+        "epsilon0": 0.8097313381827551,
+        "epsilon1": 0.8097313381827551
+    },
+    {
+        "episode": 423,
+        "timestamp": 1743152331.7723978,
+        "winner": 1,
+        "turns": 164,
+        "duration_sec": 0.313413143157959,
+        "epsilon0": 0.8093264725136637,
+        "epsilon1": 0.8093264725136637
+    },
+    {
+        "episode": 424,
+        "timestamp": 1743152332.1289763,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.35355353355407715,
+        "epsilon0": 0.808921809277407,
+        "epsilon1": 0.808921809277407
+    },
+    {
+        "episode": 425,
+        "timestamp": 1743152332.462187,
+        "winner": 1,
+        "turns": 146,
+        "duration_sec": 0.3288118839263916,
+        "epsilon0": 0.8085173483727683,
+        "epsilon1": 0.8085173483727683
+    },
+    {
+        "episode": 426,
+        "timestamp": 1743152332.8461883,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3805553913116455,
+        "epsilon0": 0.808113089698582,
+        "epsilon1": 0.808113089698582
+    },
+    {
+        "episode": 427,
+        "timestamp": 1743152333.153887,
+        "winner": 0,
+        "turns": 167,
+        "duration_sec": 0.30411219596862793,
+        "epsilon0": 0.8077090331537328,
+        "epsilon1": 0.8077090331537328
+    },
+    {
+        "episode": 428,
+        "timestamp": 1743152333.5228155,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3654499053955078,
+        "epsilon0": 0.8073051786371559,
+        "epsilon1": 0.8073051786371559
+    },
+    {
+        "episode": 429,
+        "timestamp": 1743152333.923475,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.39603447914123535,
+        "epsilon0": 0.8069015260478374,
+        "epsilon1": 0.8069015260478374
+    },
+    {
+        "episode": 430,
+        "timestamp": 1743152334.2522001,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.325162410736084,
+        "epsilon0": 0.8064980752848135,
+        "epsilon1": 0.8064980752848135
+    },
+    {
+        "episode": 431,
+        "timestamp": 1743152334.570829,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.3154020309448242,
+        "epsilon0": 0.8060948262471712,
+        "epsilon1": 0.8060948262471712
+    },
+    {
+        "episode": 432,
+        "timestamp": 1743152334.9152617,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.3410460948944092,
+        "epsilon0": 0.8056917788340476,
+        "epsilon1": 0.8056917788340476
+    },
+    {
+        "episode": 433,
+        "timestamp": 1743152335.2255657,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.3069765567779541,
+        "epsilon0": 0.8052889329446307,
+        "epsilon1": 0.8052889329446307
+    },
+    {
+        "episode": 434,
+        "timestamp": 1743152335.5429566,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3138744831085205,
+        "epsilon0": 0.8048862884781584,
+        "epsilon1": 0.8048862884781584
+    },
+    {
+        "episode": 435,
+        "timestamp": 1743152335.8747137,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.3282473087310791,
+        "epsilon0": 0.8044838453339194,
+        "epsilon1": 0.8044838453339194
+    },
+    {
+        "episode": 436,
+        "timestamp": 1743152336.1966083,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.3182523250579834,
+        "epsilon0": 0.8040816034112525,
+        "epsilon1": 0.8040816034112525
+    },
+    {
+        "episode": 437,
+        "timestamp": 1743152336.7173502,
+        "winner": 1,
+        "turns": 198,
+        "duration_sec": 0.5174798965454102,
+        "epsilon0": 0.8036795626095469,
+        "epsilon1": 0.8036795626095469
+    },
+    {
+        "episode": 438,
+        "timestamp": 1743152337.1040223,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3799002170562744,
+        "epsilon0": 0.8032777228282422,
+        "epsilon1": 0.8032777228282422
+    },
+    {
+        "episode": 439,
+        "timestamp": 1743152337.4224043,
+        "winner": 0,
+        "turns": 177,
+        "duration_sec": 0.315018892288208,
+        "epsilon0": 0.8028760839668281,
+        "epsilon1": 0.8028760839668281
+    },
+    {
+        "episode": 440,
+        "timestamp": 1743152337.764417,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.33814072608947754,
+        "epsilon0": 0.8024746459248447,
+        "epsilon1": 0.8024746459248447
+    },
+    {
+        "episode": 441,
+        "timestamp": 1743152338.1063461,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.33858156204223633,
+        "epsilon0": 0.8020734086018824,
+        "epsilon1": 0.8020734086018824
+    },
+    {
+        "episode": 442,
+        "timestamp": 1743152338.4276187,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.318192720413208,
+        "epsilon0": 0.8016723718975814,
+        "epsilon1": 0.8016723718975814
+    },
+    {
+        "episode": 443,
+        "timestamp": 1743152338.7498074,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.3187375068664551,
+        "epsilon0": 0.8012715357116327,
+        "epsilon1": 0.8012715357116327
+    },
+    {
+        "episode": 444,
+        "timestamp": 1743152339.0643382,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.31156373023986816,
+        "epsilon0": 0.8008708999437769,
+        "epsilon1": 0.8008708999437769
+    },
+    {
+        "episode": 445,
+        "timestamp": 1743152339.3920124,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.32472681999206543,
+        "epsilon0": 0.8004704644938051,
+        "epsilon1": 0.8004704644938051
+    },
+    {
+        "episode": 446,
+        "timestamp": 1743152339.7143059,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.31864500045776367,
+        "epsilon0": 0.8000702292615582,
+        "epsilon1": 0.8000702292615582
+    },
+    {
+        "episode": 447,
+        "timestamp": 1743152340.0020716,
+        "winner": 0,
+        "turns": 167,
+        "duration_sec": 0.2831838130950928,
+        "epsilon0": 0.7996701941469275,
+        "epsilon1": 0.7996701941469275
+    },
+    {
+        "episode": 448,
+        "timestamp": 1743152340.3176353,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.31246209144592285,
+        "epsilon0": 0.7992703590498541,
+        "epsilon1": 0.7992703590498541
+    },
+    {
+        "episode": 449,
+        "timestamp": 1743152340.6387339,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.3180677890777588,
+        "epsilon0": 0.7988707238703292,
+        "epsilon1": 0.7988707238703292
+    },
+    {
+        "episode": 450,
+        "timestamp": 1743152340.9665437,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.3248465061187744,
+        "epsilon0": 0.7984712885083941,
+        "epsilon1": 0.7984712885083941
+    },
+    {
+        "episode": 451,
+        "timestamp": 1743152341.3015177,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3312394618988037,
+        "epsilon0": 0.79807205286414,
+        "epsilon1": 0.79807205286414
+    },
+    {
+        "episode": 452,
+        "timestamp": 1743152341.627744,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.32208800315856934,
+        "epsilon0": 0.797673016837708,
+        "epsilon1": 0.797673016837708
+    },
+    {
+        "episode": 453,
+        "timestamp": 1743152341.9737582,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.34291791915893555,
+        "epsilon0": 0.7972741803292892,
+        "epsilon1": 0.7972741803292892
+    },
+    {
+        "episode": 454,
+        "timestamp": 1743152342.3005097,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.3225407600402832,
+        "epsilon0": 0.7968755432391246,
+        "epsilon1": 0.7968755432391246
+    },
+    {
+        "episode": 455,
+        "timestamp": 1743152342.658617,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.35476183891296387,
+        "epsilon0": 0.796477105467505,
+        "epsilon1": 0.796477105467505
+    },
+    {
+        "episode": 456,
+        "timestamp": 1743152343.0132372,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.3515923023223877,
+        "epsilon0": 0.7960788669147714,
+        "epsilon1": 0.7960788669147714
+    },
+    {
+        "episode": 457,
+        "timestamp": 1743152343.360422,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.34376025199890137,
+        "epsilon0": 0.7956808274813141,
+        "epsilon1": 0.7956808274813141
+    },
+    {
+        "episode": 458,
+        "timestamp": 1743152343.6948786,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.32982921600341797,
+        "epsilon0": 0.7952829870675735,
+        "epsilon1": 0.7952829870675735
+    },
+    {
+        "episode": 459,
+        "timestamp": 1743152344.0257201,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.3275163173675537,
+        "epsilon0": 0.7948853455740398,
+        "epsilon1": 0.7948853455740398
+    },
+    {
+        "episode": 460,
+        "timestamp": 1743152344.3612936,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.3321101665496826,
+        "epsilon0": 0.7944879029012528,
+        "epsilon1": 0.7944879029012528
+    },
+    {
+        "episode": 461,
+        "timestamp": 1743152344.692979,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.3271937370300293,
+        "epsilon0": 0.7940906589498022,
+        "epsilon1": 0.7940906589498022
+    },
+    {
+        "episode": 462,
+        "timestamp": 1743152344.9941921,
+        "winner": 1,
+        "turns": 166,
+        "duration_sec": 0.29755282402038574,
+        "epsilon0": 0.7936936136203274,
+        "epsilon1": 0.7936936136203274
+    },
+    {
+        "episode": 463,
+        "timestamp": 1743152345.3104622,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.3130795955657959,
+        "epsilon0": 0.7932967668135174,
+        "epsilon1": 0.7932967668135174
+    },
+    {
+        "episode": 464,
+        "timestamp": 1743152345.6242049,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 0.3106868267059326,
+        "epsilon0": 0.7929001184301107,
+        "epsilon1": 0.7929001184301107
+    },
+    {
+        "episode": 465,
+        "timestamp": 1743152345.964426,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.3372180461883545,
+        "epsilon0": 0.7925036683708957,
+        "epsilon1": 0.7925036683708957
+    },
+    {
+        "episode": 466,
+        "timestamp": 1743152346.2987611,
+        "winner": 1,
+        "turns": 194,
+        "duration_sec": 0.33149194717407227,
+        "epsilon0": 0.7921074165367102,
+        "epsilon1": 0.7921074165367102
+    },
+    {
+        "episode": 467,
+        "timestamp": 1743152346.6045086,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.30263781547546387,
+        "epsilon0": 0.7917113628284419,
+        "epsilon1": 0.7917113628284419
+    },
+    {
+        "episode": 468,
+        "timestamp": 1743152346.9477134,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.3402254581451416,
+        "epsilon0": 0.7913155071470277,
+        "epsilon1": 0.7913155071470277
+    },
+    {
+        "episode": 469,
+        "timestamp": 1743152347.281281,
+        "winner": 0,
+        "turns": 181,
+        "duration_sec": 0.3301241397857666,
+        "epsilon0": 0.7909198493934543,
+        "epsilon1": 0.7909198493934543
+    },
+    {
+        "episode": 470,
+        "timestamp": 1743152347.6060925,
+        "winner": 0,
+        "turns": 183,
+        "duration_sec": 0.32117676734924316,
+        "epsilon0": 0.7905243894687576,
+        "epsilon1": 0.7905243894687576
+    },
+    {
+        "episode": 471,
+        "timestamp": 1743152347.937199,
+        "winner": 0,
+        "turns": 187,
+        "duration_sec": 0.3277606964111328,
+        "epsilon0": 0.7901291272740233,
+        "epsilon1": 0.7901291272740233
+    },
+    {
+        "episode": 472,
+        "timestamp": 1743152348.2591841,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.31895875930786133,
+        "epsilon0": 0.7897340627103864,
+        "epsilon1": 0.7897340627103864
+    },
+    {
+        "episode": 473,
+        "timestamp": 1743152348.5930352,
+        "winner": 0,
+        "turns": 175,
+        "duration_sec": 0.33063602447509766,
+        "epsilon0": 0.7893391956790312,
+        "epsilon1": 0.7893391956790312
+    },
+    {
+        "episode": 474,
+        "timestamp": 1743152348.9240086,
+        "winner": 0,
+        "turns": 179,
+        "duration_sec": 0.32759594917297363,
+        "epsilon0": 0.7889445260811917,
+        "epsilon1": 0.7889445260811917
+    },
+    {
+        "episode": 475,
+        "timestamp": 1743152351.9102178,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 2.9831862449645996,
+        "epsilon0": 0.7885500538181511,
+        "epsilon1": 0.7885500538181511
+    },
+    {
+        "episode": 476,
+        "timestamp": 1743152352.4640098,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.5502092838287354,
+        "epsilon0": 0.7881557787912421,
+        "epsilon1": 0.7881557787912421
+    },
+    {
+        "episode": 477,
+        "timestamp": 1743152352.8188217,
+        "winner": 1,
+        "turns": 196,
+        "duration_sec": 0.3511927127838135,
+        "epsilon0": 0.7877617009018465,
+        "epsilon1": 0.7877617009018465
+    },
+    {
+        "episode": 478,
+        "timestamp": 1743152353.1627166,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3407776355743408,
+        "epsilon0": 0.7873678200513956,
+        "epsilon1": 0.7873678200513956
+    },
+    {
+        "episode": 479,
+        "timestamp": 1743152353.48131,
+        "winner": 1,
+        "turns": 178,
+        "duration_sec": 0.3150796890258789,
+        "epsilon0": 0.7869741361413699,
+        "epsilon1": 0.7869741361413699
+    },
+    {
+        "episode": 480,
+        "timestamp": 1743152353.8292243,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.34459781646728516,
+        "epsilon0": 0.7865806490732993,
+        "epsilon1": 0.7865806490732993
+    },
+    {
+        "episode": 481,
+        "timestamp": 1743152354.1277442,
+        "winner": 1,
+        "turns": 174,
+        "duration_sec": 0.2946171760559082,
+        "epsilon0": 0.7861873587487627,
+        "epsilon1": 0.7861873587487627
+    },
+    {
+        "episode": 482,
+        "timestamp": 1743152354.4488535,
+        "winner": 1,
+        "turns": 188,
+        "duration_sec": 0.3179173469543457,
+        "epsilon0": 0.7857942650693883,
+        "epsilon1": 0.7857942650693883
+    },
+    {
+        "episode": 483,
+        "timestamp": 1743152354.8151355,
+        "winner": 0,
+        "turns": 193,
+        "duration_sec": 0.36292457580566406,
+        "epsilon0": 0.7854013679368537,
+        "epsilon1": 0.7854013679368537
+    },
+    {
+        "episode": 484,
+        "timestamp": 1743152355.140106,
+        "winner": 1,
+        "turns": 182,
+        "duration_sec": 0.32190966606140137,
+        "epsilon0": 0.7850086672528853,
+        "epsilon1": 0.7850086672528853
+    },
+    {
+        "episode": 485,
+        "timestamp": 1743152355.4793413,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3360104560852051,
+        "epsilon0": 0.784616162919259,
+        "epsilon1": 0.784616162919259
+    },
+    {
+        "episode": 486,
+        "timestamp": 1743152355.9052892,
+        "winner": 1,
+        "turns": 166,
+        "duration_sec": 0.4222073554992676,
+        "epsilon0": 0.7842238548377993,
+        "epsilon1": 0.7842238548377993
+    },
+    {
+        "episode": 487,
+        "timestamp": 1743152356.4079275,
+        "winner": 1,
+        "turns": 184,
+        "duration_sec": 0.496035099029541,
+        "epsilon0": 0.7838317429103805,
+        "epsilon1": 0.7838317429103805
+    },
+    {
+        "episode": 488,
+        "timestamp": 1743152356.9270642,
+        "winner": 0,
+        "turns": 185,
+        "duration_sec": 0.5161013603210449,
+        "epsilon0": 0.7834398270389253,
+        "epsilon1": 0.7834398270389253
+    },
+    {
+        "episode": 489,
+        "timestamp": 1743152357.3221998,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.3917531967163086,
+        "epsilon0": 0.783048107125406,
+        "epsilon1": 0.783048107125406
+    },
+    {
+        "episode": 490,
+        "timestamp": 1743152357.638459,
+        "winner": 1,
+        "turns": 170,
+        "duration_sec": 0.3132805824279785,
+        "epsilon0": 0.7826565830718433,
+        "epsilon1": 0.7826565830718433
+    },
+    {
+        "episode": 491,
+        "timestamp": 1743152357.9655006,
+        "winner": 1,
+        "turns": 170,
+        "duration_sec": 0.3230917453765869,
+        "epsilon0": 0.7822652547803074,
+        "epsilon1": 0.7822652547803074
+    },
+    {
+        "episode": 492,
+        "timestamp": 1743152358.3544488,
+        "winner": 0,
+        "turns": 197,
+        "duration_sec": 0.38507533073425293,
+        "epsilon0": 0.7818741221529173,
+        "epsilon1": 0.7818741221529173
+    },
+    {
+        "episode": 493,
+        "timestamp": 1743152358.7163665,
+        "winner": 1,
+        "turns": 192,
+        "duration_sec": 0.35839104652404785,
+        "epsilon0": 0.7814831850918409,
+        "epsilon1": 0.7814831850918409
+    },
+    {
+        "episode": 494,
+        "timestamp": 1743152359.089079,
+        "winner": 1,
+        "turns": 186,
+        "duration_sec": 0.3695390224456787,
+        "epsilon0": 0.781092443499295,
+        "epsilon1": 0.781092443499295
+    },
+    {
+        "episode": 495,
+        "timestamp": 1743152359.4440794,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.3517308235168457,
+        "epsilon0": 0.7807018972775454,
+        "epsilon1": 0.7807018972775454
+    },
+    {
+        "episode": 496,
+        "timestamp": 1743152359.7795234,
+        "winner": 0,
+        "turns": 189,
+        "duration_sec": 0.33223628997802734,
+        "epsilon0": 0.7803115463289066,
+        "epsilon1": 0.7803115463289066
+    },
+    {
+        "episode": 497,
+        "timestamp": 1743152360.1127627,
+        "winner": 0,
+        "turns": 191,
+        "duration_sec": 0.33005595207214355,
+        "epsilon0": 0.7799213905557423,
+        "epsilon1": 0.7799213905557423
+    },
+    {
+        "episode": 498,
+        "timestamp": 1743152360.5134592,
+        "winner": 0,
+        "turns": 195,
+        "duration_sec": 0.39713573455810547,
+        "epsilon0": 0.7795314298604644,
+        "epsilon1": 0.7795314298604644
+    },
+    {
+        "episode": 499,
+        "timestamp": 1743152361.1323957,
+        "winner": 0,
+        "turns": 199,
+        "duration_sec": 0.615389347076416,
+        "epsilon0": 0.7791416641455342,
+        "epsilon1": 0.7791416641455342
+    },
+    {
+        "episode": 500,
+        "timestamp": 1743152394.9041455,
+        "winner": 1,
+        "turns": 180,
+        "duration_sec": 32.756269216537476,
+        "epsilon0": 0.7787520933134615,
+        "epsilon1": 0.7787520933134615
     }
 ]

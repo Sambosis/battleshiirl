@@ -89,7 +89,7 @@ class Ship:
                 index = self.coordinates.index(coordinate)
                 if not self.hits[index]: # Check if this specific segment is already hit
                     self.hits[index] = True # Mark this segment as hit
-                    logger.info(f"HIT registered on {self.ship_type} at {coordinate} (segment index {index})")
+                    # logger.info(f"HIT registered on {self.ship_type} at {coordinate} (segment index {index})")
                     return True # Return True because it's a *new* hit
                 else:
                     # Coordinate is part of the ship, but this segment was already hit
